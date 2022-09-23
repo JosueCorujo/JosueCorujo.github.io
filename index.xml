@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josué Corujo</title>
+    <link>https://JosueCorujo.github.io/</link>
+      <atom:link href="https://JosueCorujo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josué Corujo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <title>Josué Corujo</title>
+      <link>https://JosueCorujo.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://JosueCorujo.github.io/cv/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/cv/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-chachachá-my-cat&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://JosueCorujo.github.io/chachacha.jpg&#34; alt=&#34;A photo of my cat&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Chachachá&lt;/em&gt;, my cat
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#education&#34;&gt;Education&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#preprints&#34;&gt;Preprints&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#publications-in-journals&#34;&gt;Publications in Journals&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#publications-in-conferences&#34;&gt;Publications in Conferences&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#phd-manuscript&#34;&gt;PhD Manuscript&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conferences-and-talks&#34;&gt;Conferences and Talks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#teaching&#34;&gt;Teaching&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#skills&#34;&gt;Skills&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#computational&#34;&gt;Computational&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#languages&#34;&gt;Languages&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+&lt;!-- You can download the PDF version &lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;. --&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(2018-2021) PhD Mathematics, &lt;em&gt;Université Paris-Dauphine&lt;/em&gt;, France&lt;/li&gt;
+&lt;li&gt;(2015-2017) MSc Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
+&lt;li&gt;(2011-2015) BSc Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (submitted)  &lt;a href=&#34;https://arxiv.org/abs/2010.08809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02969874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications-in-journals&#34;&gt;Publications in Journals&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;(2021) Cloez, B. and &lt;strong&gt;Corujo, J.&lt;/strong&gt;
+&lt;em&gt;Uniform in time propagation of chaos for a Moran model&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;)
+&lt;a href=&#34;https://arxiv.org/abs/2107.10794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03345583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.spa.2022.09.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2020) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEIS&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02894514/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/abs/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D/share/f75a1b6f85bd6c27b5a236fa906bb158a1785bec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReadOnly version&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2019) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/2001.08000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02447747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S030441492100017X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2018) Rodríguez, W., Mazet, O., Grusea, S., Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Boitard, S. and Chikhi, L. &lt;em&gt;The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure&lt;/em&gt; (published in &lt;a href=&#34;https://www.nature.com/hdy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heredity&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02347366v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.nature.com/articles/s41437-018-0148-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2018) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Valdés, J. E. and Laria, J. C. &lt;em&gt;Stochastic comparisons of two-unit repairable systems&lt;/em&gt; (published in &lt;a href=&#34;https://www.tandfonline.com/toc/lsta20/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-TM&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/1804.03098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/03610926.2018.1522349?journalCode=lsta20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;publications-in-conferences&#34;&gt;Publications in Conferences&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;(2020) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; WALCOM 2020 LNCS volume 12049 | &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-39881-1_22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;phd-manuscript&#34;&gt;PhD Manuscript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Multi-allelic Moran models and quasi-stationary distributions&lt;/em&gt;. Université Paris-Dauphine. &lt;a href=&#34;https://JosueCorujo.github.io/uploads/These_Corujo.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conferences-and-talks&#34;&gt;Conferences and Talks&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;(October 2022) Poster: &lt;a href=&#34;https://JosueCorujo.github.io/2022_poster_Besancon.pdf&#34;&gt;&lt;em&gt;IICR of structured populations with size change: strong and weak migration&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://jmbs2022.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées Math Bio Santé 2022&lt;/a&gt;, Besançon, France | &lt;a href=&#34;https://github.com/JosueCorujo/structured_pop_with_size_change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Notebooks for the plots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(May 2022) Summer School &lt;a href=&#34;https://erdoscenter.renyi.hu/events/summer-school-mathematics-large-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematics of Large Networks&lt;/a&gt;, Budapest, Hungary&lt;/li&gt;
+&lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt;, &lt;a href=&#34;https://rss.org.uk/training-events/events/events-2022/sections/recent-progress-in-probabilistic-modelling-of-popu/#eventoverview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent progress in probabilistic modelling of population genetics&lt;/a&gt;, Royal Statistical Society, UK&lt;/li&gt;
+&lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;A neutral multi-allelic Moran model: spectral elements and cutoff&lt;/em&gt;, &lt;a href=&#34;https://irma-web1.math.unistra.fr/stochastique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire (de calcul) stochastique de Strasbourg&lt;/a&gt;, Strasbourg&lt;/li&gt;
+&lt;li&gt;(Mar. 2022) Talk: &lt;a href=&#34;https://quamprocs.math.u-bordeaux.fr/wp-content/uploads/2022/03/corujo-slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Speed of convergence to the mean-field limit for a mutation-selection particle system&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://quamprocs.math.u-bordeaux.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop ANR QuAMProcs&lt;/a&gt;, Inria Paris, France&lt;/li&gt;
+&lt;li&gt;(Dec. 2021) Talk: &lt;em&gt;Propagation of chaos for a multi-allelic Moran model&lt;/em&gt;. &lt;a href=&#34;http://www.cmap.polytechnique.fr/~bansaye/JourneesMAMOVI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR MAMOVI 2021&lt;/a&gt;, Ecole Polytechnique, France.&lt;/li&gt;
+&lt;li&gt;(Jul. 2021)  5th Workshop on &lt;a href=&#34;https://conferences.cirm-math.fr/2307.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Probability and Evolution&lt;/a&gt;. CIRM, Marseille, France&lt;/li&gt;
+&lt;li&gt;(Jun. 2021) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral Moran model&lt;/em&gt;. &lt;a href=&#34;https://researchseminars.org/seminar/POSemP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seminario de Probabilità, Analisi Stocastica e Statistica&lt;/a&gt;, Università di Pisa, Italy&lt;/li&gt;
+&lt;li&gt;(Feb. 2021) Talk: &lt;em&gt;Spectrum of the neutral Moran model and its long time behaviour&lt;/em&gt;. Journée de doctorants en Probabilités, Institut de Mathématiques de Toulouse, France&lt;/li&gt;
+&lt;li&gt;(Dec. 2020) Talk: &lt;em&gt;On the spectrum of a neutral multi-allelic Moran model&lt;/em&gt;. Séminaire de Probabilités, Institut de Mathématiques de Toulouse, France&lt;/li&gt;
+&lt;li&gt;(Nov. 2020) Talk: &lt;em&gt;Spectral properties of a neutral multi-allelic Moran model&lt;/em&gt;. Séminaire de Probabilité et Statistique, Montpellier, France. Record | Slides&lt;/li&gt;
+&lt;li&gt;(Mar. 2020) Talk: &lt;em&gt;Convergence of a Fleming–Viot type particle system on the cycle graph&lt;/em&gt;. 14th International Conference on Operations Research, Havana, Cuba&lt;/li&gt;
+&lt;li&gt;(Feb. 2020)  Research school &lt;a href=&#34;https://conferences.cirm-math.fr/2301.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EDP et probabilité pour la biologie&lt;/a&gt;. CIRM, Marseille, France&lt;/li&gt;
+&lt;li&gt;(Dec. 2019) Poster: &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/posterrodriguez.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Quantitative results on a multi-allelic Moran type model with mutation&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Models and Inference in Population Genetics&lt;/a&gt;, Warwick University, UK&lt;/li&gt;
+&lt;li&gt;(Sep. 2019) Talk: &lt;em&gt;Quantitative results for a Moran type particle process in the cycle graph&lt;/em&gt;. &lt;a href=&#34;https://gdr-mamovi-2019.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR MAMOVI 2019&lt;/a&gt;, Université de Tours, France&lt;/li&gt;
+&lt;li&gt;(Jul. 2017) Talk: &lt;em&gt;Stochastic Comparisons of Two-Units Markovian Reparable Systems&lt;/em&gt;. &lt;a href=&#34;http://mmr2017.imag.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10th International Conference on Mathematical Methods in Reliability&lt;/a&gt;, Grenoble, France&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2018 - 2021 PhD Student Teaching Assistant at Institut National des Sciences Appliquées de Toulouse (INSA-T)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020-2021
+&lt;ul&gt;
+&lt;li&gt;Tutorials &lt;em&gt;Lebesgue Theory and Probability&lt;/em&gt; (3rd year) (lectures by Aldéric Joulin)&lt;/li&gt;
+&lt;li&gt;Tutorials &lt;em&gt;Analysis and Probability&lt;/em&gt; (2nd year)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2019-2020
+&lt;ul&gt;
+&lt;li&gt;Tutorials &lt;em&gt;Markov Chains&lt;/em&gt; (3rd year)&lt;/li&gt;
+&lt;li&gt;Tutorials &lt;em&gt;Analysis and Probability&lt;/em&gt; (2nd year)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2019
+&lt;ul&gt;
+&lt;li&gt;Master Course: &lt;em&gt;Stochastic processes applied to Biology&lt;/em&gt; from Cooperation project in Mathematics France - Cuba (lectures by Miraine Dávila Felipe)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2018-2019
+&lt;ul&gt;
+&lt;li&gt;Tutorials Mathématiques 2 (1st year)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2015 - 2018 Assitant Professor at the Faculty of Mathematics and Computer Science, University of Havana, Cuba&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2017-2018
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Statistical Inference&lt;/em&gt; (3rd year BSc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probability Theory&lt;/em&gt; (2nd year Bsc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stochastic Process&lt;/em&gt; (3rd-4th year Bsc. Mathematics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2016-2017
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Statistical Inference&lt;/em&gt; (3rd year BSc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probability Theory&lt;/em&gt; (2nd year Bsc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stochastic Simulation&lt;/em&gt; (3rd-4th year Bsc. Mathematics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2015-2016
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Statistical Inference&lt;/em&gt; (3rd year BSc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Measure Theory&lt;/em&gt; (4th year BSc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probability Theory&lt;/em&gt; (2nd year Bsc. Mathematics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2011 - 2015 Student Teaching Assistant at the Faculty of Mathematic and Computer Science, University of Havana, Cuba.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2014-2015
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Statistical Inference&lt;/em&gt; (3rd year BSc. Mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probability Theory&lt;/em&gt; (2nd year Bsc. Mathematics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2013-2014
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Calculus I&lt;/em&gt; (1st year BSc. Pharmacy)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Probability Theory&lt;/em&gt; (2nd year BSc. Mathematics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2012-2013
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Calculus I and II&lt;/em&gt; (1st year in BSc. Biology)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;h3 id=&#34;computational&#34;&gt;Computational&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Computing: &lt;i class=&#34;fa-brands fa-python&#34;&gt;&lt;/i&gt;, Julia, &lt;i class=&#34;fa-brands fa-r-project&#34;&gt;&lt;/i&gt;, MATLAB, Wolfram Mathematica&lt;/li&gt;
+&lt;li&gt;Design: LaTeX, &lt;i class=&#34;fa-brands fa-markdown&#34;&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;Other: &lt;i class=&#34;fa-brands fa-git&#34;&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spanish (native)&lt;/li&gt;
+&lt;li&gt;English (fluent)&lt;/li&gt;
+&lt;li&gt;French (fluent)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-one-of-my-preferred-views-in-strasbourg&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://JosueCorujo.github.io/cafe_teorema.jpg&#34; alt=&#34;Photo from a bridge in Strasbourg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      One of my preferred views in Strasbourg
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uniform in time propagation of chaos for a Moran model</title>
+      <link>https://JosueCorujo.github.io/publication/06_prop_of_chaos/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/06_prop_of_chaos/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of a Fleming–Viot type particle system on the cycle graph</title>
+      <link>https://JosueCorujo.github.io/publication/04_2019_spa/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/04_2019_spa/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
+      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Further results on stochastic orderings and aging classes in systems with age replacement</title>
+      <link>https://JosueCorujo.github.io/publication/03_2019_peis/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/03_2019_peis/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matching Random Colored Points with Rectangles</title>
+      <link>https://JosueCorujo.github.io/publication/0a_matchin_points/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/0a_matchin_points/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic comparisons of two-unit repairable systems</title>
+      <link>https://JosueCorujo.github.io/publication/01_2018_cstm/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/01_2018_cstm/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure</title>
+      <link>https://JosueCorujo.github.io/publication/02_2018_heredity/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/02_2018_heredity/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://JosueCorujo.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
