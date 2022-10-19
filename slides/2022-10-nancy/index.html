@@ -61,7 +61,7 @@
     
     <section>
     
-      <h2 id="numerical-simulations-for-the-augmented-multiplicative-coalescent">Numerical simulations for the (augmented) multiplicative coalescent</h2>
+      <h2 id="simulations-for-the-augmented-multiplicative-coalescent">Simulations for the (augmented) multiplicative coalescent</h2>
 <!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) -->
 
     </section>
@@ -74,15 +74,95 @@
     
       
 <h2 id="heading"></h2>
-<p>$$ B_t(s) = W_t(s) - \min_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $</p>
+<p>$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.</p>
 <ul>
 <li>
-<p>$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero</p>
+<p>$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,</p>
 </li>
 <li>
 <p>$\big( \pmb{X}(t), t \ge 0  \big) $ is a realization of an eternal multiplicative coalescent.</p>
 </li>
 </ul>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-w_ts--ws---fracs22--t-s-for-t--05">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="$W_t(s) = W(s) - \frac{s^2}{2} &#43; t s$, for $t = 0.5$" srcset="
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp 400w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_486886bfb909846f9cb90fe5105a8393.webp 760w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      $W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$
+    </figcaption></figure>
+</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$" srcset="
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_8fd0ede04759cc9bc42a40dc9feb3da1.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
+    </figcaption></figure>
+</p>
 
     </section>
     
@@ -111,11 +191,51 @@
       
 <h2 id="heading-2"></h2>
 <ul>
-<li>$\Lambda$: homogeneous Poisson point process on $\mathbb{R}_+^2$</li>
-<li>$X_i(t)$: $i$th largest excursion above zero</li>
-<li>$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion</li>
+<li>$\Lambda$: homogeneous Poisson point process on $\mathbb{R}_+^2$,</li>
+<li>$X_i(t)$: $i$th largest excursion above zero,</li>
+<li>$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion.</li>
 </ul>
 <p>$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$" srcset="
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_f8dc8b368270d51031a25331002a0e4e.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp"
+               width="760"
+               height="507"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
+    </figcaption></figure>
+</p>
 
     </section>
     
@@ -142,7 +262,7 @@
     <section>
     
       
-<h1 id="questions">Questions?</h1>
+<h1 id="thanks-for-your-attention">Thanks for your attention!</h1>
 
     </section>
     
