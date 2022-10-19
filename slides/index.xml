@@ -38,7 +38,7 @@
 &lt;li&gt;$X_i(t)$: $i$th largest excursion above zero&lt;/li&gt;
 &lt;li&gt;$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;$\big( \pmb{X}(t), \pmb{Y}(t)  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
+&lt;p&gt;$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;&lt;/h2&gt;
 

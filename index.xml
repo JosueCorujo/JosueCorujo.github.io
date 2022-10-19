@@ -94,7 +94,7 @@
 &lt;h2 id=&#34;conferences-and-talks&#34;&gt;Conferences and Talks&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;(October 2022) Talk: &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/events/categories/probabilites-et-statistique/seminaire-probabilites-et-statistique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire de Probabilités y Statistique&lt;/a&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IECL&lt;/a&gt; Nancy, France. &lt;a href=&#34;https://JosueCorujo.github.io/slides/2022-10-nancy/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(October 2022) Talk: &lt;em&gt;Some recent advances in the multiplicative coalescent and near-critical random graphs&lt;/em&gt;, ITI IRMIA++ Day, Strasbourg, France&lt;/li&gt;
+&lt;li&gt;(October 2022) Talk: &lt;em&gt;Some recent advances in the multiplicative coalescent and near-critical random graphs&lt;/em&gt;, &lt;a href=&#34;https://irmiapp.unistra.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ITI IRMIA++&lt;/a&gt; Day, Strasbourg, France&lt;/li&gt;
 &lt;li&gt;(October 2022) Poster: &lt;a href=&#34;https://JosueCorujo.github.io/2022_poster_Besancon.pdf&#34;&gt;&lt;em&gt;IICR of structured populations with size change: strong and weak migration&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://jmbs2022.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées Math Bio Santé 2022&lt;/a&gt;, Besançon, France | &lt;a href=&#34;https://github.com/JosueCorujo/structured_pop_with_size_change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Notebooks for the plots&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(May 2022) Summer School &lt;a href=&#34;https://erdoscenter.renyi.hu/events/summer-school-mathematics-large-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematics of Large Networks&lt;/a&gt;, Budapest, Hungary&lt;/li&gt;
 &lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt;, &lt;a href=&#34;https://rss.org.uk/training-events/events/events-2022/sections/recent-progress-in-probabilistic-modelling-of-popu/#eventoverview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent progress in probabilistic modelling of population genetics&lt;/a&gt;, Royal Statistical Society, UK&lt;/li&gt;
@@ -373,7 +373,7 @@
 &lt;li&gt;$X_i(t)$: $i$th largest excursion above zero&lt;/li&gt;
 &lt;li&gt;$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;$\big( \pmb{X}(t), \pmb{Y}(t)  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
+&lt;p&gt;$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;&lt;/h2&gt;
 
