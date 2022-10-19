@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Josué Corujo</title>
+    <link>https://JosueCorujo.github.io/slides/</link>
+      <atom:link href="https://JosueCorujo.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Numerical simulations for the (augmented) multiplicative coalescent</title>
+      <link>https://JosueCorujo.github.io/slides/2022-10-nancy/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/slides/2022-10-nancy/</guid>
+      <description>&lt;h2 id=&#34;numerical-simulations-for-the-augmented-multiplicative-coalescent&#34;&gt;Numerical simulations for the (augmented) multiplicative coalescent&lt;/h2&gt;
+&lt;!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;$$ B_t(s) = W_t(s) - \min_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$\big( \pmb{X}(t), t \ge 0  \big) $ is a realization of an eternal multiplicative coalescent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/EgQUzkQ_w4M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;$\Lambda$: homogeneous Poisson point process on $\mathbb{R}_+^2$&lt;/li&gt;
+&lt;li&gt;$X_i(t)$: $i$th largest excursion above zero&lt;/li&gt;
+&lt;li&gt;$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$\big( \pmb{X}(t), \pmb{Y}(t)  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;heading-3&#34;&gt;&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/0aiV5vhFres&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
