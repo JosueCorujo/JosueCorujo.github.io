@@ -13,6 +13,25 @@
     </image>
     
     <item>
+      <title>Teaching 2023</title>
+      <link>https://JosueCorujo.github.io/courses/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/courses/</guid>
+      <description>&lt;p&gt;This semmester (spring 2023), Laure Marêché and I are teaching the course &lt;em&gt;Probability 2: Martingales and Markov Chains&lt;/em&gt; at the Université de Strasbourg.&lt;/p&gt;
+&lt;p&gt;The main bibliography is&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chapter IV and V of the book &lt;em&gt;Processus Aléatoires à temps discret&lt;/em&gt; by Jacques Franchi&lt;/li&gt;
+&lt;li&gt;and chapters 12 and 13 of the notes &lt;em&gt;Intégration, Probabilités et Processus Aléatoires&lt;/em&gt; by Jean-François Le Gall, available at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Exercise sheets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sheet # 1 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_01.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 2 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_02.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Curriculum Vitae</title>
       <link>https://JosueCorujo.github.io/cv/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
@@ -116,11 +135,17 @@
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;2023-2023 Teaching Assistant at Université de Strasbourg&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lectures of the 1st year master course &lt;em&gt;Probability 2: Martingales et Chaînes de Markov&lt;/em&gt;, you can find more information at this &lt;a href=&#34;../courses&#34;&gt;page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;2018 - 2021 PhD Student Teaching Assistant at Institut National des Sciences Appliquées de Toulouse (INSA-T)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2020-2021
 &lt;ul&gt;
-&lt;li&gt;Tutorials &lt;em&gt;Lebesgue Theory and Probability&lt;/em&gt; (3rd year) (lectures by Aldéric Joulin)&lt;/li&gt;
+&lt;li&gt;Tutorials &lt;em&gt;Lebesgue Theory and Probability&lt;/em&gt; (3rd year) (lectures by &lt;a href=&#34;https://perso.math.univ-toulouse.fr/joulin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aldéric Joulin&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Tutorials &lt;em&gt;Analysis and Probability&lt;/em&gt; (2nd year)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -132,7 +157,7 @@
 &lt;/li&gt;
 &lt;li&gt;2019
 &lt;ul&gt;
-&lt;li&gt;Master Course: &lt;em&gt;Stochastic processes applied to Biology&lt;/em&gt; from Cooperation project in Mathematics France - Cuba (lectures by Miraine Dávila Felipe)&lt;/li&gt;
+&lt;li&gt;Master Course: &lt;em&gt;Stochastic processes applied to Biology&lt;/em&gt; from Cooperation project in Mathematics France - Cuba (lectures by &lt;a href=&#34;http://www.mirainedavila.com/publications.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miraine Dávila Felipe&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;2018-2019
