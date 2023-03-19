@@ -5,12 +5,34 @@
     <link>https://JosueCorujo.github.io/</link>
       <atom:link href="https://JosueCorujo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Josué Corujo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Josué Corujo</title>
       <link>https://JosueCorujo.github.io/</link>
     </image>
+    
+    <item>
+      <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
+      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Matching random colored points with rectangles</title>
@@ -65,7 +87,8 @@
       <link>https://JosueCorujo.github.io/cv/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://JosueCorujo.github.io/cv/</guid>
-      <description>&lt;p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -88,13 +111,11 @@
       &lt;em&gt;Chachachá&lt;/em&gt;, my cat
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;You can download a PDF version of my CV &lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#education&#34;&gt;Education&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#preprints&#34;&gt;Preprints&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#publications-in-journals&#34;&gt;Publications in Journals&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#publications-in-conferences&#34;&gt;Publications in Conferences&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#phd-manuscript&#34;&gt;PhD Manuscript&lt;/a&gt;&lt;/li&gt;
@@ -117,19 +138,16 @@
 &lt;li&gt;(2011-2015) BSc Mathematics, &lt;em&gt;University of Havana&lt;/em&gt;, Cuba&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (to appear in &lt;a href=&#34;https://alea.impa.br/english/papers.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALEA&lt;/a&gt;)  &lt;a href=&#34;https://arxiv.org/abs/2010.08809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02969874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;publications-in-journals&#34;&gt;Publications in Journals&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (pubished in &lt;a href=&#34;https://alea.impa.br/english/papers.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALEA&lt;/a&gt;)  &lt;a href=&#34;https://arxiv.org/abs/2010.08809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02969874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.30757/ALEA.v20-18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; (published in &lt;a href=&#34;https://www.springer.com/journal/10878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOCO&lt;/a&gt;)
 &lt;a href=&#34;https://link.springer.com/article/10.1007/s10878-023-01010-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2021) Cloez, B. and &lt;strong&gt;Corujo, J.&lt;/strong&gt;
+&lt;li&gt;(2022) Cloez, B. and &lt;strong&gt;Corujo, J.&lt;/strong&gt;
 &lt;em&gt;Uniform in time propagation of chaos for a Moran model&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;)
 &lt;a href=&#34;https://arxiv.org/abs/2107.10794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03345583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.spa.2022.09.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2020) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEIS&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02894514/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/abs/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D/share/f75a1b6f85bd6c27b5a236fa906bb158a1785bec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ReadOnly version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2019) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/2001.08000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02447747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S030441492100017X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEIS&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02894514/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/abs/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/2001.08000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02447747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S030441492100017X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2018) Rodríguez, W., Mazet, O., Grusea, S., Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Boitard, S. and Chikhi, L. &lt;em&gt;The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure&lt;/em&gt; (published in &lt;a href=&#34;https://www.nature.com/hdy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heredity&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02347366v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.nature.com/articles/s41437-018-0148-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2018) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Valdés, J. E. and Laria, J. C. &lt;em&gt;Stochastic comparisons of two-unit repairable systems&lt;/em&gt; (published in &lt;a href=&#34;https://www.tandfonline.com/toc/lsta20/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-TM&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/1804.03098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/03610926.2018.1522349?journalCode=lsta20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -167,7 +185,7 @@
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;2023-2023 Teaching Assistant at Université de Strasbourg&lt;/p&gt;
+&lt;p&gt;2022-2023 Teaching Assistant at Université de Strasbourg&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Lectures of the 1st year master course &lt;em&gt;Probability 2: Martingales et Chaînes de Markov&lt;/em&gt;, you can find more information at this &lt;a href=&#34;../courses&#34;&gt;page&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -315,28 +333,6 @@
       <link>https://JosueCorujo.github.io/publication/04_2019_spa/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://JosueCorujo.github.io/publication/04_2019_spa/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
-      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
