@@ -13,81 +13,9 @@
     </image>
     
     <item>
-      <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
-      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Matching random colored points with rectangles</title>
-      <link>https://JosueCorujo.github.io/publication/07_joco/</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/07_joco/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probability 2 spring 2023</title>
-      <link>https://JosueCorujo.github.io/courses/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/courses/</guid>
-      <description>&lt;p&gt;This semmester (spring 2023), Laure Marêché and I are teaching the course &lt;em&gt;Probability 2: Martingales and Markov Chains&lt;/em&gt; at the Université de Strasbourg.&lt;/p&gt;
-&lt;p&gt;The main bibliography is&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;chapter IV and V of the book &lt;em&gt;Processus Aléatoires à temps discret&lt;/em&gt; by Jacques Franchi&lt;/li&gt;
-&lt;li&gt;and chapters 12 and 13 of the notes &lt;em&gt;Intégration, Probabilités et Processus Aléatoires&lt;/em&gt; by Jean-François Le Gall, available at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Exercise sheets:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sheet # 1 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_01.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 2 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_02.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 3 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_03.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 4 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_04.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 5 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_05.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 6 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_06.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 7 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_07.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 8 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_08.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 9 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_09.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 10 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_10.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 11 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_11.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Curriculum Vitae</title>
       <link>https://JosueCorujo.github.io/cv/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://JosueCorujo.github.io/cv/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -306,6 +234,78 @@
       One of my preferred views in Strasbourg
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
+      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matching random colored points with rectangles</title>
+      <link>https://JosueCorujo.github.io/publication/07_joco/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/07_joco/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probability 2 spring 2023</title>
+      <link>https://JosueCorujo.github.io/courses/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/courses/</guid>
+      <description>&lt;p&gt;This semmester (spring 2023), Laure Marêché and I are teaching the course &lt;em&gt;Probability 2: Martingales and Markov Chains&lt;/em&gt; at the Université de Strasbourg.&lt;/p&gt;
+&lt;p&gt;The main bibliography is&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chapter IV and V of the book &lt;em&gt;Processus Aléatoires à temps discret&lt;/em&gt; by Jacques Franchi&lt;/li&gt;
+&lt;li&gt;and chapters 12 and 13 of the notes &lt;em&gt;Intégration, Probabilités et Processus Aléatoires&lt;/em&gt; by Jean-François Le Gall, available at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Exercise sheets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sheet # 1 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_01.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 2 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_02.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 3 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_03.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 4 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_04.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 5 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_05.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 6 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_06.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 7 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_07.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 8 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_08.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 9 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_09.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 10 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_10.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sheet # 11 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_11.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
