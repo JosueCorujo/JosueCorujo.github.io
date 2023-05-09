@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Josué Corujo</title>
-    <link>https://JosueCorujo.github.io/publication-type/3/</link>
-      <atom:link href="https://JosueCorujo.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>simultaneous breadth-first walk | Josué Corujo</title>
+    <link>https://JosueCorujo.github.io/tag/simultaneous-breadth-first-walk/</link>
+      <atom:link href="https://JosueCorujo.github.io/tag/simultaneous-breadth-first-walk/index.xml" rel="self" type="application/rss+xml" />
+    <description>simultaneous breadth-first walk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
-      <title>3</title>
-      <link>https://JosueCorujo.github.io/publication-type/3/</link>
+      <title>simultaneous breadth-first walk</title>
+      <link>https://JosueCorujo.github.io/tag/simultaneous-breadth-first-walk/</link>
     </image>
     
     <item>
@@ -17,28 +17,6 @@
       <link>https://JosueCorujo.github.io/publication/09_playful_note/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       <guid>https://JosueCorujo.github.io/publication/09_playful_note/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The standard augmented multiplicative coalescent revisited</title>
-      <link>https://JosueCorujo.github.io/publication/08_samc_revisited/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/08_samc_revisited/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
