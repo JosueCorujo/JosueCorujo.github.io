@@ -13,31 +13,9 @@
     </image>
     
     <item>
-      <title>Exact calculation of the expected SFS in structured populations</title>
-      <link>https://JosueCorujo.github.io/publication/10_structured_sfs/</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/10_structured_sfs/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Curriculum Vitae</title>
       <link>https://JosueCorujo.github.io/cv/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>https://JosueCorujo.github.io/cv/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -93,21 +71,22 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2305.04716&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2304.07545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2023) Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Noûs, C., Boitard, S., Chikhi, L. and Mazet, O. &lt;em&gt;Exact calculation of the expected SFS in structured populations&lt;/em&gt; &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2023.05.10.540112v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biorXiv : 10.1101/2023.05.10.540112&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2305.04716&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv: 2305.04716&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2304.07545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv: 2304.07545&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;publications-in-journals&#34;&gt;Publications in Journals&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (pubished in &lt;a href=&#34;https://alea.impa.br/english/papers.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALEA&lt;/a&gt;)  &lt;a href=&#34;https://arxiv.org/abs/2010.08809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02969874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.30757/ALEA.v20-18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (pubished in &lt;a href=&#34;https://alea.impa.br/english/papers.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALEA&lt;/a&gt;)  &lt;a href=&#34;https://arxiv.org/abs/2010.08809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02969874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.30757/ALEA.v20-18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; (published in &lt;a href=&#34;https://www.springer.com/journal/10878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOCO&lt;/a&gt;)
 &lt;a href=&#34;https://link.springer.com/article/10.1007/s10878-023-01010-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2022) Cloez, B. and &lt;strong&gt;Corujo, J.&lt;/strong&gt;
 &lt;em&gt;Uniform in time propagation of chaos for a Moran model&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;)
-&lt;a href=&#34;https://arxiv.org/abs/2107.10794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03345583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.spa.2022.09.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEIS&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02894514/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/abs/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/2001.08000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02447747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S030441492100017X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2018) Rodríguez, W., Mazet, O., Grusea, S., Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Boitard, S. and Chikhi, L. &lt;em&gt;The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure&lt;/em&gt; (published in &lt;a href=&#34;https://www.nature.com/hdy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heredity&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02347366v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL link&lt;/a&gt; | &lt;a href=&#34;https://www.nature.com/articles/s41437-018-0148-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2018) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Valdés, J. E. and Laria, J. C. &lt;em&gt;Stochastic comparisons of two-unit repairable systems&lt;/em&gt; (published in &lt;a href=&#34;https://www.tandfonline.com/toc/lsta20/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-TM&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/1804.03098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv link&lt;/a&gt; | &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/03610926.2018.1522349?journalCode=lsta20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2107.10794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03345583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.spa.2022.09.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEIS&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02894514/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/abs/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/2001.08000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02447747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S030441492100017X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2018) Rodríguez, W., Mazet, O., Grusea, S., Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Boitard, S. and Chikhi, L. &lt;em&gt;The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure&lt;/em&gt; (published in &lt;a href=&#34;https://www.nature.com/hdy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heredity&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02347366v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://www.nature.com/articles/s41437-018-0148-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2018) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Valdés, J. E. and Laria, J. C. &lt;em&gt;Stochastic comparisons of two-unit repairable systems&lt;/em&gt; (published in &lt;a href=&#34;https://www.tandfonline.com/toc/lsta20/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-TM&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/1804.03098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/03610926.2018.1522349?journalCode=lsta20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;publications-in-conferences&#34;&gt;Publications in Conferences&lt;/h2&gt;
 &lt;ol&gt;
@@ -262,6 +241,28 @@
       One of my preferred views in Strasbourg
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exact calculation of the expected SFS in structured populations</title>
+      <link>https://JosueCorujo.github.io/publication/10_structured_sfs/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://JosueCorujo.github.io/publication/10_structured_sfs/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
