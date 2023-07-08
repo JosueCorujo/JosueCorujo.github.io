@@ -5,7 +5,7 @@
     <link>https://JosueCorujo.github.io/</link>
       <atom:link href="https://JosueCorujo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Josué Corujo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Josué Corujo</title>
@@ -674,7 +674,7 @@
 &lt;li&gt;
 &lt;p&gt;2022-2023 Teaching Assistant at Université de Strasbourg&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lectures of the 1st year master course &lt;em&gt;Probability 2: Martingales et Chaînes de Markov&lt;/em&gt;, you can find more information at this &lt;a href=&#34;../courses&#34;&gt;page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lectures of the 1st year master course &lt;em&gt;Probability 2: Martingales et Chaînes de Markov&lt;/em&gt;, you can find more information at this &lt;a href=&#34;../courses/spring2023&#34;&gt;page&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -900,35 +900,6 @@
 &lt;/div&gt;
  --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Probability 2 spring 2023</title>
-      <link>https://JosueCorujo.github.io/courses/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/courses/</guid>
-      <description>&lt;p&gt;This semmester (spring 2023), Laure Marêché and I are teaching the course &lt;em&gt;Probability 2: Martingales and Markov Chains&lt;/em&gt; at the Université de Strasbourg.&lt;/p&gt;
-&lt;p&gt;The main bibliography is&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;chapter IV and V of the book &lt;em&gt;Processus Aléatoires à temps discret&lt;/em&gt; by Jacques Franchi&lt;/li&gt;
-&lt;li&gt;and chapters 12 and 13 of the notes &lt;em&gt;Intégration, Probabilités et Processus Aléatoires&lt;/em&gt; by Jean-François Le Gall, available at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.imo.universite-paris-saclay.fr/~jean-francois.le-gall/IPPA2.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Exercise sheets:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sheet # 1 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_01.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 2 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_02.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 3 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_03.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 4 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_04.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 5 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_05.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 6 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_06.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 7 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_07.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 8 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_08.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 9 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_09.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 10 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_10.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 11 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_11.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sheet # 12 &lt;a href=&#34;https://JosueCorujo.github.io/uploads/2023_TDs/2023_M1_Probability_TD_12.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
