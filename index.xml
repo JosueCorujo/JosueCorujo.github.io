@@ -90,7 +90,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;10h45-11h30&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;TVA&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nicolas&#34;&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;11h30-12h15&lt;/td&gt;
@@ -134,6 +134,11 @@
 &lt;p&gt;La marche aléatoire de l’éléphant a été introduite en 2004 par des physiciens. C’est une marche aléatoire qui un a une mémoire de tout son passé mais aussi un exemple simple de processus de Markov inhomogène en temps. Son comportement dépend d’un paramètre de mémoire et est catégorisé en trois régimes : diffusif, critique et super-diffusif.
 Dans cet exposé, on commencera par présenter le modèle puis le lien entre la marche, les urnes de Pòlya à remplacement aléatoire et les arbres aléatoires récursifs avec percolation de Bernoulli. On expliquera comme l’approche par les urnes permet d’obtenir une équation de point fixe sur la variable aléatoire limite qui apparait dans le régime super-diffusif et d’en déduire des informations sur cette variable.&lt;/p&gt;
 &lt;p&gt;Travail en collaboration avec Hélène Guérin et Kilian Raschel.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;nicolas&#34;&gt;Nicolás Zalduendo&lt;/h3&gt; 
+&lt;p&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The bisexual Galton-Watson process is an extension of the classical Galton-Watson process, but taking into account the mating of females and males, which form couples that can accomplish reproduction. Properties such as extinction conditions and asymptotic behaviour have been studied in the past years, but multi-type versions have only been treated in some particular cases. In this work we deal with a general multi-dimensional version of Daley&amp;rsquo;s model, where we consider different types of females and males, which mate according to a &amp;ldquo;mating function&amp;rdquo;. We consider that this function is superadditive, which in simple words implies that two groups of females and males will form a larger number of couples together rather than separate. One of the main difficulties in the study of this process is the absence of a linear operator that is the key to understand its behavior in the asexual case, but in our case it turns out to be only concave. To overcome this issue, we use a concave Perron-Frobenius theory which ensures the existence of eigen-elements for some concave operators. Using this tool, we find a necessary and sufficient condition for almost sure extinction as well as a law of large numbers. Finally, we study the convergence of the process in the long-time through the identification of a supermartingale.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;anne&#34;&gt;Anne Laure Basdevant&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;Coloriage poissonien du plan&lt;/em&gt;&lt;/p&gt;
