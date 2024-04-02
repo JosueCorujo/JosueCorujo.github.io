@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events | Josué Corujo</title>
-    <link>https://JosueCorujo.github.io/events/</link>
-      <atom:link href="https://JosueCorujo.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <title>Events | Academic</title>
+    <link>https://example.com/events/</link>
+      <atom:link href="https://example.com/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
-      <link>https://JosueCorujo.github.io/events/</link>
+      <link>https://example.com/events/</link>
     </image>
     
     <item>
       <title>Discrete randomness in Créteil</title>
-      <link>https://JosueCorujo.github.io/events/2023discretecreteil/</link>
+      <link>https://example.com/events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/events/2023discretecreteil/</guid>
-      <description>&lt;!-- &lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt; --&gt;
+      <guid>https://example.com/events/2023discretecreteil/</guid>
+      <description>&lt;!-- 
+
+&lt;a href=&#34;https://example.com/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;
+ --&gt;
 &lt;p&gt;
 
 
@@ -36,7 +39,7 @@
 
 &lt;figure  id=&#34;figure-poster-fait-par-irene-ayuso-ventura&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://JosueCorujo.github.io/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Poster fait par Irene Ayuso Ventura
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -54,13 +57,17 @@
 &lt;li&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt; (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- &lt;div class=&#34;alert alert-warning&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     Vous pouvez vous inscrire &lt;a href=&#34;https://forms.gle/dXFNkfPYq5Xv14qbA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt;. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Vous pouvez contacter &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi pour toute question en utilisant ce &lt;a href=&#34;mailto:aurelia.deshayes@u-pec.fr,josue.corujo-rodriguez@u-pec.fr&#34;&gt;lien&lt;/a&gt;.
   &lt;/div&gt;

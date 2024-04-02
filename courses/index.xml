@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events | Josué Corujo</title>
-    <link>https://JosueCorujo.github.io/courses/</link>
-      <atom:link href="https://JosueCorujo.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <title>Teaching | Academic</title>
+    <link>https://example.com/courses/</link>
+      <atom:link href="https://example.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
-      <title>Events</title>
-      <link>https://JosueCorujo.github.io/courses/</link>
+      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>https://example.com/courses/</link>
     </image>
     
   </channel>

@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Josué Corujo</title>
-    <link>https://JosueCorujo.github.io/</link>
-      <atom:link href="https://JosueCorujo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Josué Corujo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <title>Academic</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
-      <title>Josué Corujo</title>
-      <link>https://JosueCorujo.github.io/</link>
+      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/</link>
     </image>
     
     <item>
       <title>Discrete randomness in Créteil</title>
-      <link>https://JosueCorujo.github.io/events/2023discretecreteil/</link>
+      <link>https://example.com/events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/events/2023discretecreteil/</guid>
-      <description>&lt;!-- &lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt; --&gt;
+      <guid>https://example.com/events/2023discretecreteil/</guid>
+      <description>&lt;!-- 
+
+&lt;a href=&#34;https://example.com/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;
+ --&gt;
 &lt;p&gt;
 
 
@@ -36,7 +39,7 @@
 
 &lt;figure  id=&#34;figure-poster-fait-par-irene-ayuso-ventura&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://JosueCorujo.github.io/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Poster fait par Irene Ayuso Ventura
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -54,13 +57,17 @@
 &lt;li&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt; (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- &lt;div class=&#34;alert alert-warning&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
     Vous pouvez vous inscrire &lt;a href=&#34;https://forms.gle/dXFNkfPYq5Xv14qbA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt;. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Vous pouvez contacter &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi pour toute question en utilisant ce &lt;a href=&#34;mailto:aurelia.deshayes@u-pec.fr,josue.corujo-rodriguez@u-pec.fr&#34;&gt;lien&lt;/a&gt;.
   &lt;/div&gt;
@@ -176,10 +183,10 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://JosueCorujo.github.io/cv/</link>
+      <link>https://example.com/cv/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/cv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;&lt;/p&gt;
+      <guid>https://example.com/cv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -198,7 +205,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 &lt;figure  id=&#34;figure-chachachá-my-cat&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://JosueCorujo.github.io/chachacha.jpg&#34; alt=&#34;A photo of my cat&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/chachacha.jpg&#34; alt=&#34;A photo of my cat&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Chachachá&lt;/em&gt;, my cat
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -216,7 +223,10 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
   &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;/details&gt;
-&lt;!-- You can download the PDF version &lt;a href=&#34;https://JosueCorujo.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;. --&gt;
+&lt;!-- You can download the PDF version 
+
+&lt;a href=&#34;https://example.com/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;
+. --&gt;
 &lt;h2 id=&#34;1-education&#34;&gt;1. Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;(2018-2021) PhD Mathematics, &lt;em&gt;Université Paris-Dauphine&lt;/em&gt;, France&lt;/li&gt;
@@ -249,22 +259,27 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;/ol&gt;
 &lt;h2 id=&#34;5-phd-manuscript&#34;&gt;5. PhD Manuscript&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Multi-allelic Moran models and quasi-stationary distributions&lt;/em&gt;. Université Paris-Dauphine. &lt;a href=&#34;https://JosueCorujo.github.io/uploads/These_Corujo.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Multi-allelic Moran models and quasi-stationary distributions&lt;/em&gt;. Université Paris-Dauphine | &lt;a href=&#34;../uploads/These_Corujo.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- 
+
+&lt;a href=&#34;https://example.com/uploads/These_Corujo.pdf&#34;&gt; PDF &lt;/a&gt;
+ --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;6-conferences-and-talks&#34;&gt;6. Conferences and Talks&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;(March 2024) &lt;a href=&#34;https://raphaelforien.wixsite.com/evolvingpopulations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution in structured populations: recent progress and new challenges&lt;/a&gt; (Conference in honour of Alison Etheridge), University of Oxford, UK&lt;/li&gt;
 &lt;li&gt;(December 2023) &lt;a href=&#34;https://everevol-2023.sciencesconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EverEvol – Population dynamics: from rare events to evolution&lt;/a&gt;, Grenoble, France&lt;/li&gt;
 &lt;li&gt;(November 2023) Talk: &lt;em&gt;Encoding the size of the connected components and number of surplus edges of random graphs&lt;/em&gt;, Séminaire du LMAC, Compiègne, France&lt;/li&gt;
 &lt;li&gt;(October 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt; &lt;a href=&#34;https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Groupe de travail probabilités&lt;/a&gt;, Créteil, France.&lt;/li&gt;
-&lt;li&gt;(September 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt;, Journée d&amp;rsquo;accueil du LAMA, Marne la Vallée, France \&lt;/li&gt;
-&lt;li&gt;(June 2023) Invited speaker for the &lt;a href=&#34;https://informs-aps2023.event.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21st INFORMS APS Conference&lt;/a&gt;. Talk: &lt;em&gt;Convergence of the empirical measure induced by a Moran type particle system&lt;/em&gt; &lt;a href=&#34;https://JosueCorujo.github.io/2023_06_INFORMS.pdf&#34;&gt;(Slides)&lt;/a&gt;, Nancy, France. &lt;a href=&#34;https://github.com/JosueCorujo/2023-05-poster-INFORMS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster: &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt;&lt;/a&gt; (Best Poster Award)&lt;/li&gt;
+&lt;li&gt;(September 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt;, Journée d&amp;rsquo;accueil du LAMA, Marne la Vallée, France&lt;/li&gt;
+&lt;li&gt;(June 2023) Invited speaker for the &lt;a href=&#34;https://informs-aps2023.event.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21st INFORMS APS Conference&lt;/a&gt;. Talk: &lt;em&gt;Convergence of the empirical measure induced by a Moran type particle system&lt;/em&gt; &lt;a href=&#34;../2023_06_INFORMS.pdf&#34;&gt;Slides&lt;/a&gt;, Nancy, France. &lt;a href=&#34;https://github.com/JosueCorujo/2023-05-poster-INFORMS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster: &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt;&lt;/a&gt; (Best Poster Award)&lt;/li&gt;
 &lt;li&gt;(June 2023) Talk: &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; &lt;a href=&#34;https://site-jp2023.apps.math.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées de Probabilité 2023&lt;/a&gt;, Angers, France. &lt;a href=&#34;https://docs.google.com/presentation/d/1oulNFlYDe9I_58hK9aPunRnstK_G80pjOsWOLaikvbg/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(June 2023) Chalk Talk, &lt;a href=&#34;https://gulbenkian.pt/ciencia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Gulbenkian de Ciência&lt;/a&gt;, Lisbon, Portugal. &lt;a href=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(June 2023) Chalk Talk, &lt;a href=&#34;https://gulbenkian.pt/ciencia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Gulbenkian de Ciência&lt;/a&gt;, Lisbon, Portugal. &lt;a href=&#34;https://example.com/slides/2023-06-lisbon/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(April 2023) Talk: &lt;em&gt;Large population limits for a mutation-selection Moran model&lt;/em&gt;. &lt;a href=&#34;https://indico.math.cnrs.fr/event/9022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire Maths-Bio&lt;/a&gt;, Institut de Mathématiques de Toulouse, France.&lt;/li&gt;
-&lt;li&gt;(October 2022) Talk: &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/events/categories/probabilites-et-statistique/seminaire-probabilites-et-statistique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire de Probabilités y Statistique&lt;/a&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IECL&lt;/a&gt; Nancy, France. &lt;a href=&#34;https://JosueCorujo.github.io/slides/2022-10-nancy/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(October 2022) Talk: &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/events/categories/probabilites-et-statistique/seminaire-probabilites-et-statistique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire de Probabilités y Statistique&lt;/a&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IECL&lt;/a&gt; Nancy, France. &lt;a href=&#34;https://example.com/slides/2022-10-nancy/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(October 2022) Talk: &lt;em&gt;Some recent advances in the multiplicative coalescent and near-critical random graphs&lt;/em&gt;, &lt;a href=&#34;https://irmiapp.unistra.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ITI IRMIA++&lt;/a&gt; Day, Strasbourg, France&lt;/li&gt;
-&lt;li&gt;(October 2022) Poster: &lt;a href=&#34;https://JosueCorujo.github.io/2022_poster_Besancon.pdf&#34;&gt;&lt;em&gt;IICR of structured populations with size change: strong and weak migration&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://jmbs2022.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées Math Bio Santé 2022&lt;/a&gt;, Besançon, France | &lt;a href=&#34;https://github.com/JosueCorujo/structured_pop_with_size_change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Notebooks for the plots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(October 2022) Poster: &lt;a href=&#34;https://example.com/2022_poster_Besancon.pdf&#34;&gt;&lt;em&gt;IICR of structured populations with size change: strong and weak migration&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://jmbs2022.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées Math Bio Santé 2022&lt;/a&gt;, Besançon, France | &lt;a href=&#34;https://github.com/JosueCorujo/structured_pop_with_size_change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Notebooks for the plots&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(May 2022) Summer School &lt;a href=&#34;https://erdoscenter.renyi.hu/events/summer-school-mathematics-large-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematics of Large Networks&lt;/a&gt;, Budapest, Hungary&lt;/li&gt;
 &lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt;, &lt;a href=&#34;https://rss.org.uk/training-events/events/events-2022/sections/recent-progress-in-probabilistic-modelling-of-popu/#eventoverview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent progress in probabilistic modelling of population genetics&lt;/a&gt;, Royal Statistical Society, UK&lt;/li&gt;
 &lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;A neutral multi-allelic Moran model: spectral elements and cutoff&lt;/em&gt;, &lt;a href=&#34;https://irma-web1.math.unistra.fr/stochastique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire (de calcul) stochastique de Strasbourg&lt;/a&gt;, Strasbourg&lt;/li&gt;
@@ -277,7 +292,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;li&gt;(Nov. 2020) Talk: &lt;em&gt;Spectral properties of a neutral multi-allelic Moran model&lt;/em&gt;. Séminaire de Probabilité et Statistique, Montpellier, France.&lt;/li&gt;
 &lt;li&gt;(Mar. 2020) Talk: &lt;em&gt;Convergence of a Fleming–Viot type particle system on the cycle graph&lt;/em&gt;. 14th International Conference on Operations Research, Havana, Cuba&lt;/li&gt;
 &lt;li&gt;(Feb. 2020)  Research school &lt;a href=&#34;https://conferences.cirm-math.fr/2301.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EDP et probabilité pour la biologie&lt;/a&gt;. CIRM, Marseille, France&lt;/li&gt;
-&lt;li&gt;Dec. 2019) Poster: &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/posterrodriguez.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Quantitative results on a multi-allelic Moran type model with mutation&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Models and Inference in Population Genetics&lt;/a&gt;, Warwick University, UK&lt;/li&gt;
+&lt;li&gt;(Dec. 2019) Poster: &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/posterrodriguez.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Quantitative results on a multi-allelic Moran type model with mutation&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Models and Inference in Population Genetics&lt;/a&gt;, Warwick University, UK&lt;/li&gt;
 &lt;li&gt;(Sep. 2019) Talk: &lt;em&gt;Quantitative results for a Moran type particle process in the cycle graph&lt;/em&gt;. &lt;a href=&#34;https://gdr-mamovi-2019.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR MAMOVI 2019&lt;/a&gt;, Université de Tours, France&lt;/li&gt;
 &lt;li&gt;(Jul. 2017) Talk: &lt;em&gt;Stochastic Comparisons of Two-Units Markovian Reparable Systems&lt;/em&gt;. &lt;a href=&#34;http://mmr2017.imag.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10th International Conference on Mathematical Methods in Reliability&lt;/a&gt;, Grenoble, France&lt;/li&gt;
 &lt;/ol&gt;
@@ -358,7 +373,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 &lt;figure  id=&#34;figure-one-of-my-preferred-views-in-strasbourg&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://JosueCorujo.github.io/cafe_teorema.jpg&#34; alt=&#34;Photo from a bridge in Strasbourg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/cafe_teorema.jpg&#34; alt=&#34;Photo from a bridge in Strasbourg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       One of my preferred views in Strasbourg
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -368,9 +383,9 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Numerical simulations for chalk talk</title>
-      <link>https://JosueCorujo.github.io/slides/2023-06-lisbon/</link>
+      <link>https://example.com/slides/2023-06-lisbon/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/slides/2023-06-lisbon/</guid>
+      <guid>https://example.com/slides/2023-06-lisbon/</guid>
       <description>&lt;h1 id=&#34;chalk-talk&#34;&gt;Chalk talk&lt;/h1&gt;
 &lt;h3 id=&#34;josué-corujo&#34;&gt;Josué Corujo&lt;/h3&gt;
 &lt;p&gt;Instituto Gulbenkian de Ciência, 6th June 2023&lt;/p&gt;
@@ -424,7 +439,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp 400w,
                /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_486886bfb909846f9cb90fe5105a8393.webp 760w,
                /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -455,7 +470,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp 400w,
                /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_8fd0ede04759cc9bc42a40dc9feb3da1.webp 760w,
                /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -501,7 +516,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp 400w,
                /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_f8dc8b368270d51031a25331002a0e4e.webp 760w,
                /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -540,7 +555,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_f547efea5aa8a1cc76ca8503966c7c39.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_0522c45c8bd25d5de49d80eb39c741ca.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_f547efea5aa8a1cc76ca8503966c7c39.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_f547efea5aa8a1cc76ca8503966c7c39.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -570,7 +585,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_a4079cf3f048f7c03e682d74c5b011b1.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_0fba95caeecf624f00dbd00dbeb86f96.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_a4079cf3f048f7c03e682d74c5b011b1.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_a4079cf3f048f7c03e682d74c5b011b1.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -600,7 +615,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_1e41f9db5950f7d340819cc9f4f57133.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_125eea0070b0641f967d87406765f659.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_1e41f9db5950f7d340819cc9f4f57133.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_1e41f9db5950f7d340819cc9f4f57133.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -630,7 +645,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_149b6797ff4dad8179b9cb46093c998c.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_de0faca433c8598e8fd527a73772bb62.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_149b6797ff4dad8179b9cb46093c998c.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_149b6797ff4dad8179b9cb46093c998c.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -660,7 +675,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_f812fac0df52352a75ae5d8eba12a332.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_22bfa8e6c1794867d4af8415853653f4.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_f812fac0df52352a75ae5d8eba12a332.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_f812fac0df52352a75ae5d8eba12a332.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -690,7 +705,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_fcc76cf3a8fa34ab42f95b997d116b5b.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_f678002ab88e0e0ad6fe1bbdb64b2e45.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_fcc76cf3a8fa34ab42f95b997d116b5b.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_fcc76cf3a8fa34ab42f95b997d116b5b.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -720,7 +735,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_2c1e4365a31ef9747c10291962a97b14.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_b5e2d3c5cd0e64ecf927d9f11cd6d551.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_2c1e4365a31ef9747c10291962a97b14.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_2c1e4365a31ef9747c10291962a97b14.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -750,7 +765,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_67c8ef85c2a2e937abb788e51e7d3f20.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_9b66f918db53b59c0820deae06f360cb.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_67c8ef85c2a2e937abb788e51e7d3f20.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_67c8ef85c2a2e937abb788e51e7d3f20.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -780,7 +795,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_754a1073ab603f8c39fdca88ac70bee9.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_cad1d2e67fdb61c49e9b083ecee9d398.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_754a1073ab603f8c39fdca88ac70bee9.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_754a1073ab603f8c39fdca88ac70bee9.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -810,7 +825,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_56a783b3f13040bfd1c2c2f5e701eb09.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_1fbf069dc026c1381792a99cc1da11c7.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_56a783b3f13040bfd1c2c2f5e701eb09.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_56a783b3f13040bfd1c2c2f5e701eb09.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -840,7 +855,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_c17fe370d26e6652da0d6719f85e55b1.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_9fc5b450a82465ba8e543fa8c56de038.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_c17fe370d26e6652da0d6719f85e55b1.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_c17fe370d26e6652da0d6719f85e55b1.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -870,7 +885,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_685639e21932d3864ea748b7f896614a.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_d44c8ba5dc10f1e24971f11549412e75.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_685639e21932d3864ea748b7f896614a.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_685639e21932d3864ea748b7f896614a.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -900,7 +915,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_7d12d58b9a9006ff39752afaba00c256.webp 400w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_883df962d20e7b17ad83a5729fe00a5f.webp 760w,
                /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_7d12d58b9a9006ff39752afaba00c256.webp&#34;
+               src=&#34;https://example.com/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_7d12d58b9a9006ff39752afaba00c256.webp&#34;
                width=&#34;760&#34;
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -914,14 +929,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Exact calculation of the expected SFS in structured populations</title>
-      <link>https://JosueCorujo.github.io/publication/10_structured_sfs/</link>
+      <link>https://example.com/publication/10_structured_sfs/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/10_structured_sfs/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/10_structured_sfs/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -936,14 +955,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>A dynamical approach to spanning and surplus edges of random graphs</title>
-      <link>https://JosueCorujo.github.io/publication/09_playful_note/</link>
+      <link>https://example.com/publication/09_playful_note/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/09_playful_note/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/09_playful_note/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -958,14 +981,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>The standard augmented multiplicative coalescent revisited</title>
-      <link>https://JosueCorujo.github.io/publication/08_samc_revisited/</link>
+      <link>https://example.com/publication/08_samc_revisited/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/08_samc_revisited/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/08_samc_revisited/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -980,14 +1007,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
-      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
+      <link>https://example.com/publication/05_spectrum/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/05_spectrum/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1002,14 +1033,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Matching random colored points with rectangles</title>
-      <link>https://JosueCorujo.github.io/publication/07_joco/</link>
+      <link>https://example.com/publication/07_joco/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/07_joco/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/07_joco/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1024,14 +1059,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Uniform in time propagation of chaos for a Moran model</title>
-      <link>https://JosueCorujo.github.io/publication/06_prop_of_chaos/</link>
+      <link>https://example.com/publication/06_prop_of_chaos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/06_prop_of_chaos/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/06_prop_of_chaos/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1046,14 +1085,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Dynamics of a Fleming–Viot type particle system on the cycle graph</title>
-      <link>https://JosueCorujo.github.io/publication/04_2019_spa/</link>
+      <link>https://example.com/publication/04_2019_spa/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/04_2019_spa/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/04_2019_spa/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1068,14 +1111,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Further results on stochastic orderings and aging classes in systems with age replacement</title>
-      <link>https://JosueCorujo.github.io/publication/03_2019_peis/</link>
+      <link>https://example.com/publication/03_2019_peis/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/03_2019_peis/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/03_2019_peis/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1090,14 +1137,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Matching Random Colored Points with Rectangles</title>
-      <link>https://JosueCorujo.github.io/publication/0a_matchin_points/</link>
+      <link>https://example.com/publication/0a_matchin_points/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/0a_matchin_points/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/0a_matchin_points/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1112,9 +1163,9 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Numerical simulations for the (augmented) multiplicative coalescent</title>
-      <link>https://JosueCorujo.github.io/slides/2022-10-nancy/</link>
+      <link>https://example.com/slides/2022-10-nancy/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/slides/2022-10-nancy/</guid>
+      <guid>https://example.com/slides/2022-10-nancy/</guid>
       <description>&lt;h2 id=&#34;simulations-for-the-augmented-multiplicative-coalescent&#34;&gt;Simulations for the (augmented) multiplicative coalescent&lt;/h2&gt;
 &lt;!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) --&gt;
 &lt;hr&gt;
@@ -1151,7 +1202,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp 400w,
                /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_486886bfb909846f9cb90fe5105a8393.webp 760w,
                /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp&#34;
+               src=&#34;https://example.com/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_ebf236d4f2615e16de5bee39ec129612.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1182,7 +1233,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp 400w,
                /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_8fd0ede04759cc9bc42a40dc9feb3da1.webp 760w,
                /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp&#34;
+               src=&#34;https://example.com/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_e04ba0e41e6aefd4d5ec9ab553de2f35.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1228,7 +1279,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
                /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp 400w,
                /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_f8dc8b368270d51031a25331002a0e4e.webp 760w,
                /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://JosueCorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp&#34;
+               src=&#34;https://example.com/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_e31e4f07bcc71feb443e454d2b2dd203.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1250,14 +1301,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>Stochastic comparisons of two-unit repairable systems</title>
-      <link>https://JosueCorujo.github.io/publication/01_2018_cstm/</link>
+      <link>https://example.com/publication/01_2018_cstm/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/01_2018_cstm/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/01_2018_cstm/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1272,14 +1327,18 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
     
     <item>
       <title>The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure</title>
-      <link>https://JosueCorujo.github.io/publication/02_2018_heredity/</link>
+      <link>https://example.com/publication/02_2018_heredity/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/02_2018_heredity/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/02_2018_heredity/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -1290,14 +1349,6 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
  --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://JosueCorujo.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>

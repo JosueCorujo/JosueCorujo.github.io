@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Population genetics | Josué Corujo</title>
-    <link>https://JosueCorujo.github.io/tag/population-genetics/</link>
-      <atom:link href="https://JosueCorujo.github.io/tag/population-genetics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Population genetics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <title>Population Genetics | Academic</title>
+    <link>https://example.com/tag/population-genetics/</link>
+      <atom:link href="https://example.com/tag/population-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Population Genetics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
-      <title>Population genetics</title>
-      <link>https://JosueCorujo.github.io/tag/population-genetics/</link>
+      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <title>Population Genetics</title>
+      <link>https://example.com/tag/population-genetics/</link>
     </image>
     
     <item>
       <title>The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure</title>
-      <link>https://JosueCorujo.github.io/publication/02_2018_heredity/</link>
+      <link>https://example.com/publication/02_2018_heredity/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/02_2018_heredity/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/02_2018_heredity/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

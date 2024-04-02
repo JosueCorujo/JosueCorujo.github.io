@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QSD | Josué Corujo</title>
-    <link>https://JosueCorujo.github.io/tag/qsd/</link>
-      <atom:link href="https://JosueCorujo.github.io/tag/qsd/index.xml" rel="self" type="application/rss+xml" />
+    <title>QSD | Academic</title>
+    <link>https://example.com/tag/qsd/</link>
+      <atom:link href="https://example.com/tag/qsd/index.xml" rel="self" type="application/rss+xml" />
     <description>QSD</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JosueCorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>QSD</title>
-      <link>https://JosueCorujo.github.io/tag/qsd/</link>
+      <link>https://example.com/tag/qsd/</link>
     </image>
     
     <item>
       <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
-      <link>https://JosueCorujo.github.io/publication/05_spectrum/</link>
+      <link>https://example.com/publication/05_spectrum/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/05_spectrum/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/05_spectrum/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -36,14 +40,18 @@
     
     <item>
       <title>Uniform in time propagation of chaos for a Moran model</title>
-      <link>https://JosueCorujo.github.io/publication/06_prop_of_chaos/</link>
+      <link>https://example.com/publication/06_prop_of_chaos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/06_prop_of_chaos/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/06_prop_of_chaos/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -58,14 +66,18 @@
     
     <item>
       <title>Dynamics of a Fleming–Viot type particle system on the cycle graph</title>
-      <link>https://JosueCorujo.github.io/publication/04_2019_spa/</link>
+      <link>https://example.com/publication/04_2019_spa/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://JosueCorujo.github.io/publication/04_2019_spa/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <guid>https://example.com/publication/04_2019_spa/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
