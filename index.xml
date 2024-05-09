@@ -14,9 +14,9 @@
     
     <item>
       <title>Discrete randomness in Créteil</title>
-      <link>https://example.com/events/2023discretecreteil/</link>
+      <link>https://example.com/organized_events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/events/2023discretecreteil/</guid>
+      <guid>https://example.com/organized_events/2023discretecreteil/</guid>
       <description>&lt;!-- 
 
 &lt;a href=&#34;https://example.com/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;
@@ -178,6 +178,102 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. &lt;a href=&#34;https://arxiv.org/abs/2011.04535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Generalized Max-Weight Policies in Stochastic Matching&lt;/em&gt;&lt;/a&gt;. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
 &lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. &lt;a href=&#34;https://arxiv.org/abs/2303.15374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Online matching for the multiclass stochastic block model&lt;/em&gt;&lt;/a&gt;. arXiv:2303.15374, 2023.&lt;/p&gt;
 &lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Séminaire franco-cubain de mathématiques appliquées</title>
+      <link>https://example.com/organized_events/2023-seminar-cuba-france/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/organized_events/2023-seminar-cuba-france/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34; alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendredi 3 mai 2024 à 15h salle D101-102 (bâtiment Maurice Allais - 1er étage), à l&amp;rsquo;Université Paris Nanterre
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Predicting treatment success in cancer immunotherapy: A causal inference approach&lt;/em&gt; - Lizet Sanchez Valdés (Centro de Inmunología Molecular, Cuba)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Field experiments evaluating irradiated Aedes aegypti males for the Sterile Insect Technique&lt;/em&gt; - René Gato Armas (Intituto de Medicina Tropical Pedro Pedro Kourí, Cuba)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34; alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendredi 8 Décembre 2023 à 14h30,  bât Borel de IHP en salle Olga Ladyjenskaïa (ex salle 01)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Modelling Turing-Hopf patterns&lt;/em&gt; - Mariano Rodríguez Ricard (U. La Habana, Cuba)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ridge regularization for spatial auto-regressive models with multicollinearity issues&lt;/em&gt; - Cristina Chavez Chong (ICIMAF, Cuba)&lt;/li&gt;
+&lt;li&gt;Présentation du projet : &lt;em&gt;Développement de modèles et de méthodes mathématiques et informatiques pour des problèmes de prise de décision spécifiques&lt;/em&gt; - Gemayqzel Bouza Allende (U. La Habana, Cuba)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-Seminar_France-Cuba/2023-10-13-1er_seminaire.jpg&#34; alt=&#34;1st seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendredi 13 Octobre 2023 à 15h30, U. Paris Dauphine-PSL en salle D306
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Limites d&amp;rsquo;échelle autour du graphe d&amp;rsquo;Erdös-Renyi&lt;/em&gt;  - Josué Corujo Rodríguez (UPEC, France)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Problèmes de temps moyen d&amp;rsquo;arrivée et applications dans le processus de libération du calcium induite par le calcium&lt;/em&gt; - Suney Toste (ENS, France)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organized_events | Academic</title>
+    <link>https://example.com/organized_events/</link>
+      <atom:link href="https://example.com/organized_events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Organized_events</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <title>Organized_events</title>
+      <link>https://example.com/organized_events/</link>
+    </image>
+    
+    <item>
+      <title>Discrete randomness in Créteil</title>
+      <link>https://example.com/organized_events/2023discretecreteil/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/organized_events/2023discretecreteil/</guid>
+      <description>&lt;!-- 
+
+&lt;a href=&#34;https://example.com/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;
+ --&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-poster-fait-par-irene-ayuso-ventura&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Poster fait par Irene Ayuso Ventura
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Organisée par &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi, et financée par le &lt;a href=&#34;https://lama.u-pem.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAMA&lt;/a&gt; et &lt;a href=&#34;https://www.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l&amp;rsquo;Université Paris Est Créteil&lt;/a&gt;, on vous invite à nous rejoindre pour cette journée sur quelques modèles discrets de probabilité.&lt;/p&gt;
+&lt;p&gt;Quand : mardi 12 décembre 2023 de 9h30 à 17h&lt;/p&gt;
+&lt;p&gt;Où : salle &lt;strong&gt;P1 033&lt;/strong&gt; à la &lt;a href=&#34;https://sciences-tech.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculté des Sciences et Technologie&lt;/a&gt; de l&amp;rsquo;&lt;a href=&#34;https://www.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Université Paris Est Créteil&lt;/a&gt; | &lt;a href=&#34;https://sciences-tech.u-pec.fr/plan-d-acces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plan d&amp;rsquo;accès&lt;/a&gt; et &lt;a href=&#34;https://sciences-tech.u-pec.fr/medias/fichier/upec-plan-campus-centre_1675871387755-pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF du planning du campus&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Inscription : [ici](https://forms.gle/dXFNkfPYq5Xv14qbA) --&gt;
+&lt;p&gt;Orateurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/eleanorarcher/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Archer&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.normalesup.org/~basdevant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Laure Basdevant&lt;/a&gt; (LPSM, Sorbonne Université )&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://llaulin.pages.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucile Laulin&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/soprano-loto/nahuel-soprano-loto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nahuel Soprano Loto&lt;/a&gt; (LAAS, CNRS et CONICET)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt; (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Vous pouvez vous inscrire &lt;a href=&#34;https://forms.gle/dXFNkfPYq5Xv14qbA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt;. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Vous pouvez contacter &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi pour toute question en utilisant ce &lt;a href=&#34;mailto:aurelia.deshayes@u-pec.fr,josue.corujo-rodriguez@u-pec.fr&#34;&gt;lien&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
+&lt;div class=&#34;table&#34;&gt;
+&lt;center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;09h30-10h15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://llaulin.pages.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucile Laulin&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#lucile&#34;&gt;&lt;em&gt;À propos de la limite super-diffusive de la marche aléatoire de l&amp;rsquo;éléphant&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10h15-10h45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pause&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10h45-11h30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nicolas&#34;&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11h30-12h15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://www.normalesup.org/~basdevant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Laure Basdevant&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#anne&#34;&gt;&lt;em&gt;Coloriage poissonien du plan&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12h30-14h00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Repas&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14h00-14h45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#niccolo&#34;&gt;&lt;em&gt;Limite hydrodynamique du modèle de Schelling&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14h45-15h30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/eleanorarcher/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Archer&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#eleanor&#34;&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15h30-16h00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pause&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16h00-16h45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/soprano-loto/nahuel-soprano-loto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nahuel Soprano Loto&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nahuel&#34;&gt;&lt;em&gt;Stochastic matching and online matching algorithms&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;resumes&#34;&gt;Résumés&lt;/h2&gt;
+&lt;h3 id=&#34;lucile&#34;&gt;Lucile Laulin&lt;/h3&gt; 
+&lt;p&gt;&lt;em&gt;À propos de la limite super-diffusive de la marche aléatoire de l&amp;rsquo;éléphant&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La marche aléatoire de l’éléphant a été introduite en 2004 par des physiciens. C’est une marche aléatoire qui un a une mémoire de tout son passé mais aussi un exemple simple de processus de Markov inhomogène en temps. Son comportement dépend d’un paramètre de mémoire et est catégorisé en trois régimes : diffusif, critique et super-diffusif.
+Dans cet exposé, on commencera par présenter le modèle puis le lien entre la marche, les urnes de Pòlya à remplacement aléatoire et les arbres aléatoires récursifs avec percolation de Bernoulli. On expliquera comme l’approche par les urnes permet d’obtenir une équation de point fixe sur la variable aléatoire limite qui apparait dans le régime super-diffusif et d’en déduire des informations sur cette variable.&lt;/p&gt;
+&lt;p&gt;Travail en collaboration avec Hélène Guérin et Kilian Raschel.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;nicolas&#34;&gt;Nicolás Zalduendo&lt;/h3&gt; 
+&lt;p&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The bisexual Galton-Watson process is an extension of the classical Galton-Watson process, but taking into account the mating of females and males, which form couples that can accomplish reproduction. Properties such as extinction conditions and asymptotic behaviour have been studied in the past years, but multi-type versions have only been treated in some particular cases. In this work we deal with a general multi-dimensional version of Daley&amp;rsquo;s model, where we consider different types of females and males, which mate according to a &amp;ldquo;mating function&amp;rdquo;. We consider that this function is superadditive, which in simple words implies that two groups of females and males will form a larger number of couples together rather than separate. One of the main difficulties in the study of this process is the absence of a linear operator that is the key to understand its behavior in the asexual case, but in our case it turns out to be only concave. To overcome this issue, we use a concave Perron-Frobenius theory which ensures the existence of eigen-elements for some concave operators. Using this tool, we find a necessary and sufficient condition for almost sure extinction as well as a law of large numbers. Finally, we study the convergence of the process in the long-time through the identification of a supermartingale.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;anne&#34;&gt;Anne Laure Basdevant&lt;/h3&gt; 
+&lt;p&gt;&lt;em&gt;Coloriage poissonien du plan&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dans cet exposé, nous considérerons un modèle où des points tombent successivement au hasard sur une région du plan et prennent alors la couleur du point déjà présent le plus proche de lui. Nous donnerons quelques propriétés topologiques du coloriage limite et nous regarderons en particulier la dimension de Hausdorff de la frontière des clusters de chaque couleur.&lt;/p&gt;
+&lt;p&gt;Travail avec G. Blanc, N. Curien et A. Singh.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;niccolo&#34;&gt;Niccolo Torri&lt;/h3&gt;  
+&lt;p&gt;&lt;em&gt;Limite hydrodynamique du modèle de Schelling&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Le sujet principal de cet exposé est le modèle de Schelling, un modèle d&amp;rsquo;agents qui décrit une dynamique de ségrégation quand nous avons la cohabitation de deux groupes sociaux. Le comportement de ce modèle a été étudié en utilisant plusieurs approches, notamment en utilisant des outils de la physique théorique et de la simulation numérique. Ces approches amènent à conjecturer un diagramme de phase où soit les différents groupes sociaux sont ségrégués dans des clusters macroscopiques, soit ils sont mélangés. D&amp;rsquo;un point de vue mathématique, à notre connaissance, ce modèle a été étudié pour la première fois par Holden et Sheffield (2020). Dans cet exposé nous allons présenter les résultats que nous avons obtenu concernant l&amp;rsquo;existence d&amp;rsquo;une limite hydrodynamique en considérant le modèle de Schelling perturbé par une dynamique de Glauber et une de Kawasaki.&lt;/p&gt;
+&lt;p&gt;Travail en collaboration avec Florent Barret, Université Paris-Nanterre.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;eleanor&#34;&gt;Eleanor Archer&lt;/h3&gt; 
+&lt;p&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dans cet exposé, nous prendrons un arbre de Galton-Watson sur-critique d&amp;rsquo;espérance $m &amp;gt; 1$, et nous echantillons une percolation sur l&amp;rsquo;arbre. Il est bien connu que la probabilité critique pour ce modèle est $1/m$ et que l&amp;rsquo;amas de la racine à la loi d&amp;rsquo;un arbre de Galton-Watson critique. Pour cette raison de nombreuses propriétés de l&amp;rsquo;amas sont bien comprises, par exemple la probabilité à survivre jusqu&amp;rsquo;à la $k$-ieme génération, la loi de la taille de la $k$-ieme génération conditionnée à être strictement positive (la &amp;ldquo;limite de Yaglom&amp;rdquo;), et la convergence vers un processus du branchement.
+Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire que nous prenons l&amp;rsquo;espérance par rapport à la loi de l&amp;rsquo;arbre et de la percolation simultanément. L&amp;rsquo;objectif de cet exposé est de considérer le régime &lt;em&gt;quenched&lt;/em&gt; : ses propriétés sont-elles vraies pour presque toute réalisation de l&amp;rsquo;arbre ? Nous allons voir que c&amp;rsquo;est bien le cas.&lt;/p&gt;
+&lt;p&gt;Basé sur un travail en cours avec Quirin Vogel.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;nahuel&#34;&gt;Nahuel Soprano Loto&lt;/h3&gt; 
+&lt;p&gt;&lt;em&gt;Stochastic matching and online matching algorithms&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, we will delve into two distinct models that originate from different backgrounds: stochastic matching models and online matching algorithms.&lt;/p&gt;
+&lt;p&gt;Stochastic matching models are models in which items arrive in the system in a random fashion. The system works as an environment to put them in contact. Pairs of items present in the system can be matched based on a predefined compatibility structure between them, and once a matching occurs, the involved items leave the system. The problem behind is to schedule these matchings in order to optimize some performance criteria. In our case, this criteria will be stability, that is the property that prevents accumulation of items in the system.&lt;/p&gt;
+&lt;p&gt;In the second context, online stochastic matching, the word &amp;ldquo;matching&amp;rdquo; refers to something different. Given a graph, a matching is a subset of edges without extreme vertices in common. It is a classical problem to find large matchings in graphs. A new perspective, mainly motivated in internet applications, is to study online algorithms, that are the kind of algorithms that have to make decisions &amp;ldquo;on the fly&amp;rdquo;, or as the graph is discovered. We will focus on the case in which the underlying graph is random.&lt;/p&gt;
+&lt;p&gt;We will explain how these two contexts are related, and show how the understanding of one context can help to the understanding of the second one.&lt;/p&gt;
+&lt;p&gt;This work is based on the following papers:&lt;/p&gt;
+&lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. &lt;a href=&#34;https://arxiv.org/abs/2011.04535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Generalized Max-Weight Policies in Stochastic Matching&lt;/em&gt;&lt;/a&gt;. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
+&lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. &lt;a href=&#34;https://arxiv.org/abs/2303.15374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Online matching for the multiclass stochastic block model&lt;/em&gt;&lt;/a&gt;. arXiv:2303.15374, 2023.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Séminaire franco-cubain de mathématiques appliquées</title>
+      <link>https://example.com/organized_events/2023-seminar-cuba-france/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/organized_events/2023-seminar-cuba-france/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34; alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendredi 3 mai 2024 à 15h salle D101-102 (bâtiment Maurice Allais - 1er étage), à l&amp;rsquo;Université Paris Nanterre
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Predicting treatment success in cancer immunotherapy: A causal inference approach&lt;/em&gt; - Lizet Sanchez Valdés (Centro de Inmunología Molecular, Cuba)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Field experiments evaluating irradiated Aedes aegypti males for the Sterile Insect Technique&lt;/em&gt; - René Gato Armas (Intituto de Medicina Tropical Pedro Pedro Kourí, Cuba)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34; alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendredi 8 Décembre 2023 à 14h30,  bât Borel de IHP en salle Olga Ladyjenskaïa (ex salle 01)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Modelling Turing-Hopf patterns&lt;/em&gt; - Mariano Rodríguez Ricard (U. La Habana, Cuba)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ridge regularization for spatial auto-regressive models with multicollinearity issues&lt;/em&gt; - Cristina Chavez Chong (ICIMAF, Cuba)&lt;/li&gt;
+&lt;li&gt;Présentation du projet : &lt;em&gt;Développement de modèles et de méthodes mathématiques et informatiques pour des problèmes de prise de décision spécifiques&lt;/em&gt; - Gemayqzel Bouza Allende (U. La Habana, Cuba)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/2023-Seminar_France-Cuba/2023-10-13-1er_seminaire.jpg&#34; alt=&#34;1st seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendredi 13 Octobre 2023 à 15h30, U. Paris Dauphine-PSL en salle D306
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Limites d&amp;rsquo;échelle autour du graphe d&amp;rsquo;Erdös-Renyi&lt;/em&gt;  - Josué Corujo Rodríguez (UPEC, France)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Problèmes de temps moyen d&amp;rsquo;arrivée et applications dans le processus de libération du calcium induite par le calcium&lt;/em&gt; - Suney Toste (ENS, France)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
