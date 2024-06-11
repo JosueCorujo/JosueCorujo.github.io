@@ -170,12 +170,14 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;nahuel&#34;&gt;Nahuel Soprano Loto&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;Stochastic matching and online matching algorithms&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;In this talk, we will delve into two distinct models that originate from different backgrounds: stochastic matching models and online matching algorithms.&lt;/p&gt;
 &lt;p&gt;Stochastic matching models are models in which items arrive in the system in a random fashion. The system works as an environment to put them in contact. Pairs of items present in the system can be matched based on a predefined compatibility structure between them, and once a matching occurs, the involved items leave the system. The problem behind is to schedule these matchings in order to optimize some performance criteria. In our case, this criteria will be stability, that is the property that prevents accumulation of items in the system.&lt;/p&gt;
 &lt;p&gt;In the second context, online stochastic matching, the word &amp;ldquo;matching&amp;rdquo; refers to something different. Given a graph, a matching is a subset of edges without extreme vertices in common. It is a classical problem to find large matchings in graphs. A new perspective, mainly motivated in internet applications, is to study online algorithms, that are the kind of algorithms that have to make decisions &amp;ldquo;on the fly&amp;rdquo;, or as the graph is discovered. We will focus on the case in which the underlying graph is random.&lt;/p&gt;
 &lt;p&gt;We will explain how these two contexts are related, and show how the understanding of one context can help to the understanding of the second one.&lt;/p&gt;
 &lt;p&gt;This work is based on the following papers:&lt;/p&gt;
 &lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. &lt;a href=&#34;https://arxiv.org/abs/2011.04535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Generalized Max-Weight Policies in Stochastic Matching&lt;/em&gt;&lt;/a&gt;. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. &lt;a href=&#34;https://arxiv.org/abs/2303.15374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Online matching for the multiclass stochastic block model&lt;/em&gt;&lt;/a&gt;. arXiv:2303.15374, 2023.&lt;/p&gt;
 &lt;hr&gt;
 </description>
