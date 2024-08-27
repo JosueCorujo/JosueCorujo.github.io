@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/publication-type/1/</link>
+      <atom:link href="https://josuecorujo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://josuecorujo.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Matching Random Colored Points with Rectangles</title>
-      <link>https://example.com/publication/0a_matchin_points/</link>
+      <link>https://josuecorujo.github.io/publication/0a_matchin_points/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/0a_matchin_points/</guid>
+      <guid>https://josuecorujo.github.io/publication/0a_matchin_points/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

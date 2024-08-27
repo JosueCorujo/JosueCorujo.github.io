@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Structured Population | Academic</title>
-    <link>https://example.com/tag/structured-population/</link>
-      <atom:link href="https://example.com/tag/structured-population/index.xml" rel="self" type="application/rss+xml" />
+    <title>Structured Population | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/tag/structured-population/</link>
+      <atom:link href="https://josuecorujo.github.io/tag/structured-population/index.xml" rel="self" type="application/rss+xml" />
     <description>Structured Population</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Structured Population</title>
-      <link>https://example.com/tag/structured-population/</link>
+      <link>https://josuecorujo.github.io/tag/structured-population/</link>
     </image>
     
     <item>
       <title>Exact calculation of the expected SFS in structured populations</title>
-      <link>https://example.com/publication/10_structured_sfs/</link>
+      <link>https://josuecorujo.github.io/publication/10_structured_sfs/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10_structured_sfs/</guid>
+      <guid>https://josuecorujo.github.io/publication/10_structured_sfs/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

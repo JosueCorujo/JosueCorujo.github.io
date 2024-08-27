@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Population Genetics | Academic</title>
-    <link>https://example.com/tag/population-genetics/</link>
-      <atom:link href="https://example.com/tag/population-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <title>Population Genetics | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/tag/population-genetics/</link>
+      <atom:link href="https://josuecorujo.github.io/tag/population-genetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Population Genetics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Population Genetics</title>
-      <link>https://example.com/tag/population-genetics/</link>
+      <link>https://josuecorujo.github.io/tag/population-genetics/</link>
     </image>
     
     <item>
       <title>The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure</title>
-      <link>https://example.com/publication/02_2018_heredity/</link>
+      <link>https://josuecorujo.github.io/publication/02_2018_heredity/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/02_2018_heredity/</guid>
+      <guid>https://josuecorujo.github.io/publication/02_2018_heredity/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

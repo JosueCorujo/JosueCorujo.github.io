@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2022-2023 Martingales and Markov Chains | Academic</title>
-    <link>https://example.com/courses/2023spring/</link>
-      <atom:link href="https://example.com/courses/2023spring/index.xml" rel="self" type="application/rss+xml" />
+    <title>2022-2023 Martingales and Markov Chains | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/courses/2023spring/</link>
+      <atom:link href="https://josuecorujo.github.io/courses/2023spring/index.xml" rel="self" type="application/rss+xml" />
     <description>2022-2023 Martingales and Markov Chains</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>2022-2023 Martingales and Markov Chains</title>
-      <link>https://example.com/courses/2023spring/</link>
+      <link>https://josuecorujo.github.io/courses/2023spring/</link>
     </image>
     
   </channel>

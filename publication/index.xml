@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/publication/</link>
+      <atom:link href="https://josuecorujo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://josuecorujo.github.io/publication/</link>
     </image>
     
     <item>
       <title>Extending the IICR to multiple genomes and identification of limitations of some demographic inferential methods</title>
-      <link>https://example.com/publication/12_iicrk/</link>
+      <link>https://josuecorujo.github.io/publication/12_iicrk/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/12_iicrk/</guid>
+      <guid>https://josuecorujo.github.io/publication/12_iicrk/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>The number of connected components in sub-critical random graph processes</title>
-      <link>https://example.com/publication/11_nb_cc_random_graph/</link>
+      <link>https://josuecorujo.github.io/publication/11_nb_cc_random_graph/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/11_nb_cc_random_graph/</guid>
+      <guid>https://josuecorujo.github.io/publication/11_nb_cc_random_graph/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -66,9 +66,9 @@
     
     <item>
       <title>Exact calculation of the expected SFS in structured populations</title>
-      <link>https://example.com/publication/10_structured_sfs/</link>
+      <link>https://josuecorujo.github.io/publication/10_structured_sfs/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10_structured_sfs/</guid>
+      <guid>https://josuecorujo.github.io/publication/10_structured_sfs/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -92,9 +92,9 @@
     
     <item>
       <title>A dynamical approach to spanning and surplus edges of random graphs</title>
-      <link>https://example.com/publication/09_playful_note/</link>
+      <link>https://josuecorujo.github.io/publication/09_playful_note/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/09_playful_note/</guid>
+      <guid>https://josuecorujo.github.io/publication/09_playful_note/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -118,9 +118,9 @@
     
     <item>
       <title>The standard augmented multiplicative coalescent revisited</title>
-      <link>https://example.com/publication/08_samc_revisited/</link>
+      <link>https://josuecorujo.github.io/publication/08_samc_revisited/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/08_samc_revisited/</guid>
+      <guid>https://josuecorujo.github.io/publication/08_samc_revisited/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -144,9 +144,9 @@
     
     <item>
       <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
-      <link>https://example.com/publication/05_spectrum/</link>
+      <link>https://josuecorujo.github.io/publication/05_spectrum/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/05_spectrum/</guid>
+      <guid>https://josuecorujo.github.io/publication/05_spectrum/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>Matching random colored points with rectangles</title>
-      <link>https://example.com/publication/07_joco/</link>
+      <link>https://josuecorujo.github.io/publication/07_joco/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/07_joco/</guid>
+      <guid>https://josuecorujo.github.io/publication/07_joco/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -196,9 +196,9 @@
     
     <item>
       <title>Uniform in time propagation of chaos for a Moran model</title>
-      <link>https://example.com/publication/06_prop_of_chaos/</link>
+      <link>https://josuecorujo.github.io/publication/06_prop_of_chaos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/06_prop_of_chaos/</guid>
+      <guid>https://josuecorujo.github.io/publication/06_prop_of_chaos/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -222,9 +222,9 @@
     
     <item>
       <title>Dynamics of a Fleming–Viot type particle system on the cycle graph</title>
-      <link>https://example.com/publication/04_2019_spa/</link>
+      <link>https://josuecorujo.github.io/publication/04_2019_spa/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/04_2019_spa/</guid>
+      <guid>https://josuecorujo.github.io/publication/04_2019_spa/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -248,9 +248,9 @@
     
     <item>
       <title>Further results on stochastic orderings and aging classes in systems with age replacement</title>
-      <link>https://example.com/publication/03_2019_peis/</link>
+      <link>https://josuecorujo.github.io/publication/03_2019_peis/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/03_2019_peis/</guid>
+      <guid>https://josuecorujo.github.io/publication/03_2019_peis/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -274,9 +274,9 @@
     
     <item>
       <title>Matching Random Colored Points with Rectangles</title>
-      <link>https://example.com/publication/0a_matchin_points/</link>
+      <link>https://josuecorujo.github.io/publication/0a_matchin_points/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/0a_matchin_points/</guid>
+      <guid>https://josuecorujo.github.io/publication/0a_matchin_points/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -300,9 +300,9 @@
     
     <item>
       <title>Stochastic comparisons of two-unit repairable systems</title>
-      <link>https://example.com/publication/01_2018_cstm/</link>
+      <link>https://josuecorujo.github.io/publication/01_2018_cstm/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/01_2018_cstm/</guid>
+      <guid>https://josuecorujo.github.io/publication/01_2018_cstm/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -326,9 +326,9 @@
     
     <item>
       <title>The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure</title>
-      <link>https://example.com/publication/02_2018_heredity/</link>
+      <link>https://josuecorujo.github.io/publication/02_2018_heredity/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/02_2018_heredity/</guid>
+      <guid>https://josuecorujo.github.io/publication/02_2018_heredity/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

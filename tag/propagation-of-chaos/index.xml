@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Propagation of Chaos | Academic</title>
-    <link>https://example.com/tag/propagation-of-chaos/</link>
-      <atom:link href="https://example.com/tag/propagation-of-chaos/index.xml" rel="self" type="application/rss+xml" />
+    <title>Propagation of Chaos | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/tag/propagation-of-chaos/</link>
+      <atom:link href="https://josuecorujo.github.io/tag/propagation-of-chaos/index.xml" rel="self" type="application/rss+xml" />
     <description>Propagation of Chaos</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
       <title>Propagation of Chaos</title>
-      <link>https://example.com/tag/propagation-of-chaos/</link>
+      <link>https://josuecorujo.github.io/tag/propagation-of-chaos/</link>
     </image>
     
     <item>
       <title>Uniform in time propagation of chaos for a Moran model</title>
-      <link>https://example.com/publication/06_prop_of_chaos/</link>
+      <link>https://josuecorujo.github.io/publication/06_prop_of_chaos/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/06_prop_of_chaos/</guid>
+      <guid>https://josuecorujo.github.io/publication/06_prop_of_chaos/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
