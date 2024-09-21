@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Population Genetics | Josué Corujo</title>
-    <link>https://josuecorujo.github.io/tag/population-genetics/</link>
-      <atom:link href="https://josuecorujo.github.io/tag/population-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/population-genetics/</link>
+      <atom:link href="http://localhost:1313/tag/population-genetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Population Genetics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2137828008231222761.png</url>
       <title>Population Genetics</title>
-      <link>https://josuecorujo.github.io/tag/population-genetics/</link>
+      <link>http://localhost:1313/tag/population-genetics/</link>
     </image>
     
     <item>
       <title>The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure</title>
-      <link>https://josuecorujo.github.io/publication/02_2018_heredity/</link>
+      <link>http://localhost:1313/publication/02_2018_heredity/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/02_2018_heredity/</guid>
+      <guid>http://localhost:1313/publication/02_2018_heredity/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

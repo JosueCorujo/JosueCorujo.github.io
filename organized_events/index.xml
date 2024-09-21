@@ -7,7 +7,7 @@
     <description>Organized_events</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Organized_events</title>
       <link>https://josuecorujo.github.io/organized_events/</link>
     </image>
@@ -17,11 +17,7 @@
       <link>https://josuecorujo.github.io/organized_events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/organized_events/2023discretecreteil/</guid>
-      <description>&lt;!-- 
-
-&lt;a href=&#34;https://josuecorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;
- --&gt;
-&lt;p&gt;
+      <description>&lt;p&gt;
 
 
 
@@ -38,100 +34,144 @@
 
 
 &lt;figure  id=&#34;figure-poster-fait-par-irene-ayuso-ventura&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Poster fait par Irene Ayuso Ventura
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Organisée par &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi, et financée par le &lt;a href=&#34;https://lama.u-pem.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAMA&lt;/a&gt; et &lt;a href=&#34;https://www.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l&amp;rsquo;Université Paris Est Créteil&lt;/a&gt;, on vous invite à nous rejoindre pour cette journée sur quelques modèles discrets de probabilité.&lt;/p&gt;
+&lt;p&gt;Organisée par 
+ et moi, et financée par le 
+ et 
+, on vous invite à nous rejoindre pour cette journée sur quelques modèles discrets de probabilité.&lt;/p&gt;
 &lt;p&gt;Quand : mardi 12 décembre 2023 de 9h30 à 17h&lt;/p&gt;
-&lt;p&gt;Où : salle &lt;strong&gt;P1 033&lt;/strong&gt; à la &lt;a href=&#34;https://sciences-tech.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculté des Sciences et Technologie&lt;/a&gt; de l&amp;rsquo;&lt;a href=&#34;https://www.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Université Paris Est Créteil&lt;/a&gt; | &lt;a href=&#34;https://sciences-tech.u-pec.fr/plan-d-acces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plan d&amp;rsquo;accès&lt;/a&gt; et &lt;a href=&#34;https://sciences-tech.u-pec.fr/medias/fichier/upec-plan-campus-centre_1675871387755-pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF du planning du campus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Où : salle &lt;strong&gt;P1 033&lt;/strong&gt; à la 
+ de l&amp;rsquo;
+ | 
+ et 
+&lt;/p&gt;
 &lt;!-- Inscription : [ici](https://forms.gle/dXFNkfPYq5Xv14qbA) --&gt;
 &lt;p&gt;Orateurs :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/eleanorarcher/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Archer&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.normalesup.org/~basdevant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Laure Basdevant&lt;/a&gt; (LPSM, Sorbonne Université )&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://llaulin.pages.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucile Laulin&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/soprano-loto/nahuel-soprano-loto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nahuel Soprano Loto&lt;/a&gt; (LAAS, CNRS et CONICET)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt; (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
+&lt;li&gt;
+ (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;
+ (LPSM, Sorbonne Université )&lt;/li&gt;
+&lt;li&gt;
+ (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;
+ (LAAS, CNRS et CONICET)&lt;/li&gt;
+&lt;li&gt;
+ (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;
+ (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- 
 
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;div&gt;
-    Vous pouvez vous inscrire &lt;a href=&#34;https://forms.gle/dXFNkfPYq5Xv14qbA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt;. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+
+  
+    
+    
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Vous pouvez vous inscrire 
+. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Vous pouvez contacter &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi pour toute question en utilisant ce &lt;a href=&#34;mailto:aurelia.deshayes@u-pec.fr,josue.corujo-rodriguez@u-pec.fr&#34;&gt;lien&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Vous pouvez contacter 
+ et moi pour toute question en utilisant ce 
+.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
 &lt;div class=&#34;table&#34;&gt;
 &lt;center&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;09h30-10h15&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://llaulin.pages.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucile Laulin&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#lucile&#34;&gt;&lt;em&gt;À propos de la limite super-diffusive de la marche aléatoire de l&amp;rsquo;éléphant&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10h15-10h45&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Pause&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10h45-11h30&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nicolas&#34;&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;11h30-12h15&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://www.normalesup.org/~basdevant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Laure Basdevant&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#anne&#34;&gt;&lt;em&gt;Coloriage poissonien du plan&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12h30-14h00&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Repas&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14h00-14h45&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#niccolo&#34;&gt;&lt;em&gt;Limite hydrodynamique du modèle de Schelling&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14h45-15h30&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/eleanorarcher/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Archer&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#eleanor&#34;&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;15h30-16h00&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Pause&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;16h00-16h45&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/soprano-loto/nahuel-soprano-loto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nahuel Soprano Loto&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nahuel&#34;&gt;&lt;em&gt;Stochastic matching and online matching algorithms&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09h30-10h15&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10h15-10h45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pause&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10h45-11h30&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11h30-12h15&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12h30-14h00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Repas&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14h00-14h45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14h45-15h30&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15h30-16h00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pause&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16h00-16h45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/center&gt;
 &lt;/div&gt;
@@ -164,7 +204,7 @@ Dans cet exposé, on commencera par présenter le modèle puis le lien entre la 
 &lt;h3 id=&#34;eleanor&#34;&gt;Eleanor Archer&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Dans cet exposé, nous prendrons un arbre de Galton-Watson sur-critique d&amp;rsquo;espérance $m &amp;gt; 1$, et nous echantillons une percolation sur l&amp;rsquo;arbre. Il est bien connu que la probabilité critique pour ce modèle est $1/m$ et que l&amp;rsquo;amas de la racine à la loi d&amp;rsquo;un arbre de Galton-Watson critique. Pour cette raison de nombreuses propriétés de l&amp;rsquo;amas sont bien comprises, par exemple la probabilité à survivre jusqu&amp;rsquo;à la $k$-ieme génération, la loi de la taille de la $k$-ieme génération conditionnée à être strictement positive (la &amp;ldquo;limite de Yaglom&amp;rdquo;), et la convergence vers un processus du branchement.
+&lt;p&gt;Dans cet exposé, nous prendrons un arbre de Galton-Watson sur-critique d&amp;rsquo;espérance $m &gt; 1$, et nous echantillons une percolation sur l&amp;rsquo;arbre. Il est bien connu que la probabilité critique pour ce modèle est $1/m$ et que l&amp;rsquo;amas de la racine à la loi d&amp;rsquo;un arbre de Galton-Watson critique. Pour cette raison de nombreuses propriétés de l&amp;rsquo;amas sont bien comprises, par exemple la probabilité à survivre jusqu&amp;rsquo;à la $k$-ieme génération, la loi de la taille de la $k$-ieme génération conditionnée à être strictement positive (la &amp;ldquo;limite de Yaglom&amp;rdquo;), et la convergence vers un processus du branchement.
 Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire que nous prenons l&amp;rsquo;espérance par rapport à la loi de l&amp;rsquo;arbre et de la percolation simultanément. L&amp;rsquo;objectif de cet exposé est de considérer le régime &lt;em&gt;quenched&lt;/em&gt; : ses propriétés sont-elles vraies pour presque toute réalisation de l&amp;rsquo;arbre ? Nous allons voir que c&amp;rsquo;est bien le cas.&lt;/p&gt;
 &lt;p&gt;Basé sur un travail en cours avec Quirin Vogel.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -176,9 +216,11 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;p&gt;In the second context, online stochastic matching, the word &amp;ldquo;matching&amp;rdquo; refers to something different. Given a graph, a matching is a subset of edges without extreme vertices in common. It is a classical problem to find large matchings in graphs. A new perspective, mainly motivated in internet applications, is to study online algorithms, that are the kind of algorithms that have to make decisions &amp;ldquo;on the fly&amp;rdquo;, or as the graph is discovered. We will focus on the case in which the underlying graph is random.&lt;/p&gt;
 &lt;p&gt;We will explain how these two contexts are related, and show how the understanding of one context can help to the understanding of the second one.&lt;/p&gt;
 &lt;p&gt;This work is based on the following papers:&lt;/p&gt;
-&lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. &lt;a href=&#34;https://arxiv.org/abs/2011.04535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Generalized Max-Weight Policies in Stochastic Matching&lt;/em&gt;&lt;/a&gt;. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
+&lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. 
+. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. &lt;a href=&#34;https://arxiv.org/abs/2303.15374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Online matching for the multiclass stochastic block model&lt;/em&gt;&lt;/a&gt;. arXiv:2303.15374, 2023.&lt;/p&gt;
+&lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. 
+. arXiv:2303.15374, 2023.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
@@ -205,12 +247,13 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-06-14-4me_seminaire.jpg&#34; alt=&#34;4th seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Vendredi 14 juin 2024 à 15h salle D101-102 Sorbonne Université 1516-3-09 LJLL, couloir 15-16, salle 309 (voici le &lt;a href=&#34;https://www.ljll.fr/plan-dacces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plan d&amp;rsquo;accès&lt;/a&gt;)
+&lt;li&gt;Vendredi 14 juin 2024 à 15h salle D101-102 Sorbonne Université 1516-3-09 LJLL, couloir 15-16, salle 309 (voici le 
+)
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Existence and stability in the voltage-conductance equation&lt;/em&gt; - Claudia Fonte Sánchez (Inria Grenoble)&lt;/li&gt;
 &lt;/ul&gt;
@@ -233,7 +276,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34; alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -262,7 +305,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34; alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -292,7 +335,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-10-13-1er_seminaire.jpg&#34; alt=&#34;1st seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;

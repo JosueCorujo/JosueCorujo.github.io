@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Critical Erdös-Renyi Random Graphs | Josué Corujo</title>
-    <link>https://josuecorujo.github.io/tag/critical-erdos-renyi-random-graphs/</link>
-      <atom:link href="https://josuecorujo.github.io/tag/critical-erdos-renyi-random-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/critical-erdos-renyi-random-graphs/</link>
+      <atom:link href="http://localhost:1313/tag/critical-erdos-renyi-random-graphs/index.xml" rel="self" type="application/rss+xml" />
     <description>Critical Erdös-Renyi Random Graphs</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2137828008231222761.png</url>
       <title>Critical Erdös-Renyi Random Graphs</title>
-      <link>https://josuecorujo.github.io/tag/critical-erdos-renyi-random-graphs/</link>
+      <link>http://localhost:1313/tag/critical-erdos-renyi-random-graphs/</link>
     </image>
     
     <item>
       <title>The standard augmented multiplicative coalescent revisited</title>
-      <link>https://josuecorujo.github.io/publication/08_samc_revisited/</link>
+      <link>http://localhost:1313/publication/08_samc_revisited/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/08_samc_revisited/</guid>
+      <guid>http://localhost:1313/publication/08_samc_revisited/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

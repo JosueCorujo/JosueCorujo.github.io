@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Josué Corujo</title>
-    <link>https://josuecorujo.github.io/publication-type/3/</link>
-      <atom:link href="https://josuecorujo.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2137828008231222761.png</url>
       <title>3</title>
-      <link>https://josuecorujo.github.io/publication-type/3/</link>
+      <link>http://localhost:1313/publication-type/3/</link>
     </image>
     
     <item>
       <title>Extending the IICR to multiple genomes and identification of limitations of some demographic inferential methods</title>
-      <link>https://josuecorujo.github.io/publication/12_iicrk/</link>
+      <link>http://localhost:1313/publication/12_iicrk/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/12_iicrk/</guid>
+      <guid>http://localhost:1313/publication/12_iicrk/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>The number of connected components in sub-critical random graph processes</title>
-      <link>https://josuecorujo.github.io/publication/11_nb_cc_random_graph/</link>
+      <link>http://localhost:1313/publication/11_nb_cc_random_graph/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/11_nb_cc_random_graph/</guid>
+      <guid>http://localhost:1313/publication/11_nb_cc_random_graph/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -66,9 +66,9 @@
     
     <item>
       <title>Exact calculation of the expected SFS in structured populations</title>
-      <link>https://josuecorujo.github.io/publication/10_structured_sfs/</link>
+      <link>http://localhost:1313/publication/10_structured_sfs/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/10_structured_sfs/</guid>
+      <guid>http://localhost:1313/publication/10_structured_sfs/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -92,9 +92,9 @@
     
     <item>
       <title>A dynamical approach to spanning and surplus edges of random graphs</title>
-      <link>https://josuecorujo.github.io/publication/09_playful_note/</link>
+      <link>http://localhost:1313/publication/09_playful_note/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/09_playful_note/</guid>
+      <guid>http://localhost:1313/publication/09_playful_note/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -118,9 +118,9 @@
     
     <item>
       <title>The standard augmented multiplicative coalescent revisited</title>
-      <link>https://josuecorujo.github.io/publication/08_samc_revisited/</link>
+      <link>http://localhost:1313/publication/08_samc_revisited/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/08_samc_revisited/</guid>
+      <guid>http://localhost:1313/publication/08_samc_revisited/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

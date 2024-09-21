@@ -5,9 +5,9 @@
     <link>https://josuecorujo.github.io/</link>
       <atom:link href="https://josuecorujo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Josué Corujo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Josué Corujo</title>
       <link>https://josuecorujo.github.io/</link>
     </image>
@@ -19,21 +19,35 @@
       <guid>https://josuecorujo.github.io/publication/12_iicrk/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -45,21 +59,35 @@
       <guid>https://josuecorujo.github.io/publication/11_nb_cc_random_graph/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -69,11 +97,7 @@
       <link>https://josuecorujo.github.io/organized_events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/organized_events/2023discretecreteil/</guid>
-      <description>&lt;!-- 
-
-&lt;a href=&#34;https://josuecorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;
- --&gt;
-&lt;p&gt;
+      <description>&lt;p&gt;
 
 
 
@@ -90,100 +114,144 @@
 
 
 &lt;figure  id=&#34;figure-poster-fait-par-irene-ayuso-ventura&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Poster fait par Irene Ayuso Ventura
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Organisée par &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi, et financée par le &lt;a href=&#34;https://lama.u-pem.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAMA&lt;/a&gt; et &lt;a href=&#34;https://www.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l&amp;rsquo;Université Paris Est Créteil&lt;/a&gt;, on vous invite à nous rejoindre pour cette journée sur quelques modèles discrets de probabilité.&lt;/p&gt;
+&lt;p&gt;Organisée par 
+ et moi, et financée par le 
+ et 
+, on vous invite à nous rejoindre pour cette journée sur quelques modèles discrets de probabilité.&lt;/p&gt;
 &lt;p&gt;Quand : mardi 12 décembre 2023 de 9h30 à 17h&lt;/p&gt;
-&lt;p&gt;Où : salle &lt;strong&gt;P1 033&lt;/strong&gt; à la &lt;a href=&#34;https://sciences-tech.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Faculté des Sciences et Technologie&lt;/a&gt; de l&amp;rsquo;&lt;a href=&#34;https://www.u-pec.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Université Paris Est Créteil&lt;/a&gt; | &lt;a href=&#34;https://sciences-tech.u-pec.fr/plan-d-acces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plan d&amp;rsquo;accès&lt;/a&gt; et &lt;a href=&#34;https://sciences-tech.u-pec.fr/medias/fichier/upec-plan-campus-centre_1675871387755-pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF du planning du campus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Où : salle &lt;strong&gt;P1 033&lt;/strong&gt; à la 
+ de l&amp;rsquo;
+ | 
+ et 
+&lt;/p&gt;
 &lt;!-- Inscription : [ici](https://forms.gle/dXFNkfPYq5Xv14qbA) --&gt;
 &lt;p&gt;Orateurs :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/eleanorarcher/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Archer&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.normalesup.org/~basdevant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Laure Basdevant&lt;/a&gt; (LPSM, Sorbonne Université )&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://llaulin.pages.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucile Laulin&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/soprano-loto/nahuel-soprano-loto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nahuel Soprano Loto&lt;/a&gt; (LAAS, CNRS et CONICET)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt; (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt; (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
+&lt;li&gt;
+ (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;
+ (LPSM, Sorbonne Université )&lt;/li&gt;
+&lt;li&gt;
+ (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;
+ (LAAS, CNRS et CONICET)&lt;/li&gt;
+&lt;li&gt;
+ (Modal&amp;rsquo;X, Université de Nanterre)&lt;/li&gt;
+&lt;li&gt;
+ (IECL, Université de Lorraine et INRIA Grand Est)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- 
 
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;div&gt;
-    Vous pouvez vous inscrire &lt;a href=&#34;https://forms.gle/dXFNkfPYq5Xv14qbA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt;. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+
+  
+    
+    
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Vous pouvez vous inscrire 
+. L&amp;rsquo;inscription est gratuite (mais obligatoire si vous voulez participer au déjeuner).&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Vous pouvez contacter &lt;a href=&#34;https://sites.google.com/view/deshayesaurelia/accueil&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aurelia Deshayes&lt;/a&gt; et moi pour toute question en utilisant ce &lt;a href=&#34;mailto:aurelia.deshayes@u-pec.fr,josue.corujo-rodriguez@u-pec.fr&#34;&gt;lien&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Vous pouvez contacter 
+ et moi pour toute question en utilisant ce 
+.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
 &lt;div class=&#34;table&#34;&gt;
 &lt;center&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;09h30-10h15&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://llaulin.pages.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucile Laulin&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#lucile&#34;&gt;&lt;em&gt;À propos de la limite super-diffusive de la marche aléatoire de l&amp;rsquo;éléphant&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10h15-10h45&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Pause&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10h45-11h30&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://nzalduendo.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolás Zalduendo&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nicolas&#34;&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;11h30-12h15&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://www.normalesup.org/~basdevant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anne Laure Basdevant&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#anne&#34;&gt;&lt;em&gt;Coloriage poissonien du plan&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12h30-14h00&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Repas&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14h00-14h45&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://ntorri.perso.math.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niccolo Torri&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#niccolo&#34;&gt;&lt;em&gt;Limite hydrodynamique du modèle de Schelling&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;14h45-15h30&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/eleanorarcher/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eleanor Archer&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#eleanor&#34;&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;15h30-16h00&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Pause&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;16h00-16h45&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/soprano-loto/nahuel-soprano-loto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nahuel Soprano Loto&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;#nahuel&#34;&gt;&lt;em&gt;Stochastic matching and online matching algorithms&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09h30-10h15&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10h15-10h45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pause&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10h45-11h30&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11h30-12h15&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12h30-14h00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Repas&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14h00-14h45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14h45-15h30&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15h30-16h00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pause&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16h00-16h45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/center&gt;
 &lt;/div&gt;
@@ -216,7 +284,7 @@ Dans cet exposé, on commencera par présenter le modèle puis le lien entre la 
 &lt;h3 id=&#34;eleanor&#34;&gt;Eleanor Archer&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Dans cet exposé, nous prendrons un arbre de Galton-Watson sur-critique d&amp;rsquo;espérance $m &amp;gt; 1$, et nous echantillons une percolation sur l&amp;rsquo;arbre. Il est bien connu que la probabilité critique pour ce modèle est $1/m$ et que l&amp;rsquo;amas de la racine à la loi d&amp;rsquo;un arbre de Galton-Watson critique. Pour cette raison de nombreuses propriétés de l&amp;rsquo;amas sont bien comprises, par exemple la probabilité à survivre jusqu&amp;rsquo;à la $k$-ieme génération, la loi de la taille de la $k$-ieme génération conditionnée à être strictement positive (la &amp;ldquo;limite de Yaglom&amp;rdquo;), et la convergence vers un processus du branchement.
+&lt;p&gt;Dans cet exposé, nous prendrons un arbre de Galton-Watson sur-critique d&amp;rsquo;espérance $m &gt; 1$, et nous echantillons une percolation sur l&amp;rsquo;arbre. Il est bien connu que la probabilité critique pour ce modèle est $1/m$ et que l&amp;rsquo;amas de la racine à la loi d&amp;rsquo;un arbre de Galton-Watson critique. Pour cette raison de nombreuses propriétés de l&amp;rsquo;amas sont bien comprises, par exemple la probabilité à survivre jusqu&amp;rsquo;à la $k$-ieme génération, la loi de la taille de la $k$-ieme génération conditionnée à être strictement positive (la &amp;ldquo;limite de Yaglom&amp;rdquo;), et la convergence vers un processus du branchement.
 Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire que nous prenons l&amp;rsquo;espérance par rapport à la loi de l&amp;rsquo;arbre et de la percolation simultanément. L&amp;rsquo;objectif de cet exposé est de considérer le régime &lt;em&gt;quenched&lt;/em&gt; : ses propriétés sont-elles vraies pour presque toute réalisation de l&amp;rsquo;arbre ? Nous allons voir que c&amp;rsquo;est bien le cas.&lt;/p&gt;
 &lt;p&gt;Basé sur un travail en cours avec Quirin Vogel.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -228,9 +296,11 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;p&gt;In the second context, online stochastic matching, the word &amp;ldquo;matching&amp;rdquo; refers to something different. Given a graph, a matching is a subset of edges without extreme vertices in common. It is a classical problem to find large matchings in graphs. A new perspective, mainly motivated in internet applications, is to study online algorithms, that are the kind of algorithms that have to make decisions &amp;ldquo;on the fly&amp;rdquo;, or as the graph is discovered. We will focus on the case in which the underlying graph is random.&lt;/p&gt;
 &lt;p&gt;We will explain how these two contexts are related, and show how the understanding of one context can help to the understanding of the second one.&lt;/p&gt;
 &lt;p&gt;This work is based on the following papers:&lt;/p&gt;
-&lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. &lt;a href=&#34;https://arxiv.org/abs/2011.04535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Generalized Max-Weight Policies in Stochastic Matching&lt;/em&gt;&lt;/a&gt;. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
+&lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. 
+. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. &lt;a href=&#34;https://arxiv.org/abs/2303.15374&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Online matching for the multiclass stochastic block model&lt;/em&gt;&lt;/a&gt;. arXiv:2303.15374, 2023.&lt;/p&gt;
+&lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. 
+. arXiv:2303.15374, 2023.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
@@ -257,12 +327,13 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-06-14-4me_seminaire.jpg&#34; alt=&#34;4th seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Vendredi 14 juin 2024 à 15h salle D101-102 Sorbonne Université 1516-3-09 LJLL, couloir 15-16, salle 309 (voici le &lt;a href=&#34;https://www.ljll.fr/plan-dacces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plan d&amp;rsquo;accès&lt;/a&gt;)
+&lt;li&gt;Vendredi 14 juin 2024 à 15h salle D101-102 Sorbonne Université 1516-3-09 LJLL, couloir 15-16, salle 309 (voici le 
+)
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Existence and stability in the voltage-conductance equation&lt;/em&gt; - Claudia Fonte Sánchez (Inria Grenoble)&lt;/li&gt;
 &lt;/ul&gt;
@@ -285,7 +356,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34; alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -314,7 +385,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34; alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -344,7 +415,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-10-13-1er_seminaire.jpg&#34; alt=&#34;1st seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
@@ -364,7 +435,8 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <link>https://josuecorujo.github.io/cv/</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/cv/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://josuecorujo.github.io/uploads/resumeEN.pdf&#34;&gt;  PDF &lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -382,29 +454,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-chachachá-my-cat&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/chachacha.jpg&#34; alt=&#34;A photo of my cat&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Chachachá&lt;/em&gt;, my cat
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#1-education&#34;&gt;1. Education&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#2-preprints&#34;&gt;2. Preprints&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#3-publications-in-journals&#34;&gt;3. Publications in Journals&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#4-publications-in-conferences&#34;&gt;4. Publications in Conferences&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#5-phd-manuscript&#34;&gt;5. PhD Manuscript&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#6-conferences-and-talks&#34;&gt;6. Conferences and Talks&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-&lt;!-- You can download the PDF version 
-
-&lt;a href=&#34;https://josuecorujo.github.io/uploads/resumeEN.pdf&#34;&gt;here&lt;/a&gt;
-. --&gt;
 &lt;h2 id=&#34;1-education&#34;&gt;1. Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;(2018-2021) PhD Mathematics, &lt;em&gt;Université Paris-Dauphine&lt;/em&gt;, France&lt;/li&gt;
@@ -414,65 +469,122 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;hr&gt;
 &lt;h2 id=&#34;2-preprints&#34;&gt;2. Preprints&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;(2023) Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Noûs, C., Boitard, S., Chikhi, L. and Mazet, O. &lt;em&gt;Exact calculation of the expected SFS in structured populations&lt;/em&gt; &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2023.05.10.540112v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biorXiv : 10.1101/2023.05.10.540112&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2305.04716&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv: 2305.04716&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2304.07545&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv: 2304.07545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2023) Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Noûs, C., Boitard, S., Chikhi, L. and Mazet, O. &lt;em&gt;Exact calculation of the expected SFS in structured populations&lt;/em&gt; 
+&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt; 
+&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Limic, V. &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; 
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;3-publications-in-journals&#34;&gt;3. Publications in Journals&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (pubished in &lt;a href=&#34;https://alea.impa.br/english/papers.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALEA&lt;/a&gt;)  &lt;a href=&#34;https://arxiv.org/abs/2010.08809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02969874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.30757/ALEA.v20-18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; (published in &lt;a href=&#34;https://www.springer.com/journal/10878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JOCO&lt;/a&gt;)
-&lt;a href=&#34;https://link.springer.com/article/10.1007/s10878-023-01010-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;On the spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt; (pubished in 
+)  
+ | 
+ | 
+&lt;/li&gt;
+&lt;li&gt;(2023) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; (published in 
+)
+
+&lt;/li&gt;
 &lt;li&gt;(2022) Cloez, B. and &lt;strong&gt;Corujo, J.&lt;/strong&gt;
-&lt;em&gt;Uniform in time propagation of chaos for a Moran model&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;)
-&lt;a href=&#34;https://arxiv.org/abs/2107.10794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03345583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://doi.org/10.1016/j.spa.2022.09.006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PEIS&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02894514/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/abs/further-results-on-stochastic-orderings-and-aging-classes-in-systems-with-age-replacement/B962335EFDB2F1D31E3DC5C42BAD948D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in &lt;a href=&#34;https://www.sciencedirect.com/journal/stochastic-processes-and-their-applications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPA&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/2001.08000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02447747&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S030441492100017X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2018) Rodríguez, W., Mazet, O., Grusea, S., Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Boitard, S. and Chikhi, L. &lt;em&gt;The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure&lt;/em&gt; (published in &lt;a href=&#34;https://www.nature.com/hdy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heredity&lt;/a&gt;) &lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-02347366v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt; | &lt;a href=&#34;https://www.nature.com/articles/s41437-018-0148-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(2018) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Valdés, J. E. and Laria, J. C. &lt;em&gt;Stochastic comparisons of two-unit repairable systems&lt;/em&gt; (published in &lt;a href=&#34;https://www.tandfonline.com/toc/lsta20/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-TM&lt;/a&gt;) &lt;a href=&#34;https://arxiv.org/abs/1804.03098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; | &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/03610926.2018.1522349?journalCode=lsta20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;em&gt;Uniform in time propagation of chaos for a Moran model&lt;/em&gt; (published in 
+)
+
+ | 
+ | 
+&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; and Valdés, J. E. &lt;em&gt;Further results on stochastic orderings and aging classes in systems with age replacement&lt;/em&gt; (published in 
+) 
+ | 
+&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Dynamics of a Fleming – Viot type particle system on the cycle graph&lt;/em&gt; (published in 
+) 
+ | 
+ | 
+&lt;/li&gt;
+&lt;li&gt;(2018) Rodríguez, W., Mazet, O., Grusea, S., Arredondo, A., &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Boitard, S. and Chikhi, L. &lt;em&gt;The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure&lt;/em&gt; (published in 
+) 
+ | 
+&lt;/li&gt;
+&lt;li&gt;(2018) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Valdés, J. E. and Laria, J. C. &lt;em&gt;Stochastic comparisons of two-unit repairable systems&lt;/em&gt; (published in 
+) 
+ | 
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;4-publications-in-conferences&#34;&gt;4. Publications in Conferences&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;(2020) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; WALCOM 2020 LNCS volume 12049 | &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-39881-1_22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2020) &lt;strong&gt;Corujo, J.&lt;/strong&gt;, Flores-Peñaloza, D., Huemer, C., Pérez-Lantero, P., Seara, C. &lt;em&gt;Matching random colored points with rectangles&lt;/em&gt; WALCOM 2020 LNCS volume 12049 | 
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;5-phd-manuscript&#34;&gt;5. PhD Manuscript&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Multi-allelic Moran models and quasi-stationary distributions&lt;/em&gt;. Université Paris-Dauphine | &lt;a href=&#34;../uploads/These_Corujo.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(2021) &lt;strong&gt;Corujo, J.&lt;/strong&gt; &lt;em&gt;Multi-allelic Moran models and quasi-stationary distributions&lt;/em&gt;. Université Paris-Dauphine | 
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- 
-
-&lt;a href=&#34;https://josuecorujo.github.io/uploads/These_Corujo.pdf&#34;&gt; PDF &lt;/a&gt;
- --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;6-conferences-and-talks&#34;&gt;6. Conferences and Talks&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;(March 2024) &lt;a href=&#34;https://raphaelforien.wixsite.com/evolvingpopulations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution in structured populations: recent progress and new challenges&lt;/a&gt; (Conference in honour of Alison Etheridge), University of Oxford, UK&lt;/li&gt;
-&lt;li&gt;(December 2023) &lt;a href=&#34;https://everevol-2023.sciencesconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EverEvol – Population dynamics: from rare events to evolution&lt;/a&gt;, Grenoble, France&lt;/li&gt;
-&lt;li&gt;(November 2023) Talk: &lt;em&gt;Encoding the size of the connected components and number of surplus edges of random graphs&lt;/em&gt;, Séminaire du LMAC, Compiègne, France&lt;/li&gt;
-&lt;li&gt;(October 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt; &lt;a href=&#34;https://lama.u-pem.fr/evenements/seminaire/groupe_de_travail_probabilites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Groupe de travail probabilités&lt;/a&gt;, Créteil, France.&lt;/li&gt;
-&lt;li&gt;(September 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt;, Journée d&amp;rsquo;accueil du LAMA, Marne la Vallée, France&lt;/li&gt;
-&lt;li&gt;(June 2023) Invited speaker for the &lt;a href=&#34;https://informs-aps2023.event.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21st INFORMS APS Conference&lt;/a&gt;. Talk: &lt;em&gt;Convergence of the empirical measure induced by a Moran type particle system&lt;/em&gt; &lt;a href=&#34;../2023_06_INFORMS.pdf&#34;&gt;Slides&lt;/a&gt;, Nancy, France. &lt;a href=&#34;https://github.com/JosueCorujo/2023-05-poster-INFORMS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster: &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt;&lt;/a&gt; (Best Poster Award)&lt;/li&gt;
-&lt;li&gt;(June 2023) Talk: &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; &lt;a href=&#34;https://site-jp2023.apps.math.cnrs.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées de Probabilité 2023&lt;/a&gt;, Angers, France. &lt;a href=&#34;https://docs.google.com/presentation/d/1oulNFlYDe9I_58hK9aPunRnstK_G80pjOsWOLaikvbg/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(June 2023) Chalk Talk, &lt;a href=&#34;https://gulbenkian.pt/ciencia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Gulbenkian de Ciência&lt;/a&gt;, Lisbon, Portugal. &lt;a href=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(April 2023) Talk: &lt;em&gt;Large population limits for a mutation-selection Moran model&lt;/em&gt;. &lt;a href=&#34;https://indico.math.cnrs.fr/event/9022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire Maths-Bio&lt;/a&gt;, Institut de Mathématiques de Toulouse, France.&lt;/li&gt;
-&lt;li&gt;(October 2022) Talk: &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/events/categories/probabilites-et-statistique/seminaire-probabilites-et-statistique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire de Probabilités y Statistique&lt;/a&gt;, &lt;a href=&#34;https://iecl.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IECL&lt;/a&gt; Nancy, France. &lt;a href=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(October 2022) Talk: &lt;em&gt;Some recent advances in the multiplicative coalescent and near-critical random graphs&lt;/em&gt;, &lt;a href=&#34;https://irmiapp.unistra.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ITI IRMIA++&lt;/a&gt; Day, Strasbourg, France&lt;/li&gt;
-&lt;li&gt;(October 2022) Poster: &lt;a href=&#34;https://josuecorujo.github.io/2022_poster_Besancon.pdf&#34;&gt;&lt;em&gt;IICR of structured populations with size change: strong and weak migration&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://jmbs2022.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journées Math Bio Santé 2022&lt;/a&gt;, Besançon, France | &lt;a href=&#34;https://github.com/JosueCorujo/structured_pop_with_size_change&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julia Notebooks for the plots&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(May 2022) Summer School &lt;a href=&#34;https://erdoscenter.renyi.hu/events/summer-school-mathematics-large-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mathematics of Large Networks&lt;/a&gt;, Budapest, Hungary&lt;/li&gt;
-&lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt;, &lt;a href=&#34;https://rss.org.uk/training-events/events/events-2022/sections/recent-progress-in-probabilistic-modelling-of-popu/#eventoverview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent progress in probabilistic modelling of population genetics&lt;/a&gt;, Royal Statistical Society, UK&lt;/li&gt;
-&lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;A neutral multi-allelic Moran model: spectral elements and cutoff&lt;/em&gt;, &lt;a href=&#34;https://irma-web1.math.unistra.fr/stochastique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire (de calcul) stochastique de Strasbourg&lt;/a&gt;, Strasbourg&lt;/li&gt;
-&lt;li&gt;(Mar. 2022) Talk: &lt;a href=&#34;https://quamprocs.math.u-bordeaux.fr/wp-content/uploads/2022/03/corujo-slides.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Speed of convergence to the mean-field limit for a mutation-selection particle system&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://quamprocs.math.u-bordeaux.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop ANR QuAMProcs&lt;/a&gt;, Inria Paris, France&lt;/li&gt;
-&lt;li&gt;(Dec. 2021) Talk: &lt;em&gt;Propagation of chaos for a multi-allelic Moran model&lt;/em&gt;. &lt;a href=&#34;http://www.cmap.polytechnique.fr/~bansaye/JourneesMAMOVI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR MAMOVI 2021&lt;/a&gt;, Ecole Polytechnique, France.&lt;/li&gt;
-&lt;li&gt;(Jul. 2021)  5th Workshop on &lt;a href=&#34;https://conferences.cirm-math.fr/2307.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Probability and Evolution&lt;/a&gt;. CIRM, Marseille, France&lt;/li&gt;
-&lt;li&gt;(Jun. 2021) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral Moran model&lt;/em&gt;. &lt;a href=&#34;https://researchseminars.org/seminar/POSemP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seminario de Probabilità, Analisi Stocastica e Statistica&lt;/a&gt;, Università di Pisa, Italy&lt;/li&gt;
+&lt;li&gt;(Aug. 2024) 
+, Poitiers, France&lt;/li&gt;
+&lt;li&gt;(March 2024) 
+ (Conference in honour of Alison Etheridge), University of Oxford, UK&lt;/li&gt;
+&lt;li&gt;(Dec. 2023) 
+, Grenoble, France&lt;/li&gt;
+&lt;li&gt;(Nov. 2023) Talk: &lt;em&gt;Encoding the size of the connected components and number of surplus edges of random graphs&lt;/em&gt;, Séminaire du LMAC, Compiègne, France&lt;/li&gt;
+&lt;li&gt;(Oct. 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt; 
+, Créteil, France.&lt;/li&gt;
+&lt;li&gt;(Sept. 2023) Talk: &lt;em&gt;Random graphs and the augmented multiplicative coalescent&lt;/em&gt;, Journée d&amp;rsquo;accueil du LAMA, Marne la Vallée, France&lt;/li&gt;
+&lt;li&gt;(June 2023) Invited speaker for the 
+. Talk: &lt;em&gt;Convergence of the empirical measure induced by a Moran type particle system&lt;/em&gt; 
+, Nancy, France. 
+ (Best Poster Award)&lt;/li&gt;
+&lt;li&gt;(June 2023) Talk: &lt;em&gt;The standard augmented multiplicative coalescent revisited&lt;/em&gt; 
+, Angers, France. 
+&lt;/li&gt;
+&lt;li&gt;(June 2023) Chalk Talk, 
+, Lisbon, Portugal. 
+&lt;/li&gt;
+&lt;li&gt;(April 2023) Talk: &lt;em&gt;Large population limits for a mutation-selection Moran model&lt;/em&gt;. 
+, Institut de Mathématiques de Toulouse, France.&lt;/li&gt;
+&lt;li&gt;(Oct. 2022) Talk: &lt;em&gt;A dynamical approach to spanning and surplus edges of random graphs&lt;/em&gt;, 
+, 
+ Nancy, France. 
+&lt;/li&gt;
+&lt;li&gt;(Oct. 2022) Talk: &lt;em&gt;Some recent advances in the multiplicative coalescent and near-critical random graphs&lt;/em&gt;, 
+ Day, Strasbourg, France&lt;/li&gt;
+&lt;li&gt;(Oct. 2022) Poster: 
+. 
+, Besançon, France | 
+&lt;/li&gt;
+&lt;li&gt;(May 2022) Summer School 
+, Budapest, Hungary&lt;/li&gt;
+&lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral multi-allelic Moran model&lt;/em&gt;, 
+, Royal Statistical Society, UK&lt;/li&gt;
+&lt;li&gt;(Apr. 2022) Talk: &lt;em&gt;A neutral multi-allelic Moran model: spectral elements and cutoff&lt;/em&gt;, 
+, Strasbourg&lt;/li&gt;
+&lt;li&gt;(Mar. 2022) Talk: 
+. 
+, Inria Paris, France&lt;/li&gt;
+&lt;li&gt;(Dec. 2021) Talk: &lt;em&gt;Propagation of chaos for a multi-allelic Moran model&lt;/em&gt;. 
+, Ecole Polytechnique, France.&lt;/li&gt;
+&lt;li&gt;(Jul. 2021)  5th Workshop on 
+. CIRM, Marseille, France&lt;/li&gt;
+&lt;li&gt;(Jun. 2021) Talk: &lt;em&gt;Spectrum and ergodicity of a neutral Moran model&lt;/em&gt;. 
+, Università di Pisa, Italy&lt;/li&gt;
 &lt;li&gt;(Feb. 2021) Talk: &lt;em&gt;Spectrum of the neutral Moran model and its long time behaviour&lt;/em&gt;. Journée de doctorants en Probabilités, Institut de Mathématiques de Toulouse, France&lt;/li&gt;
 &lt;li&gt;(Dec. 2020) Talk: &lt;em&gt;On the spectrum of a neutral multi-allelic Moran model&lt;/em&gt;. Séminaire de Probabilités, Institut de Mathématiques de Toulouse, France&lt;/li&gt;
 &lt;li&gt;(Nov. 2020) Talk: &lt;em&gt;Spectral properties of a neutral multi-allelic Moran model&lt;/em&gt;. Séminaire de Probabilité et Statistique, Montpellier, France.&lt;/li&gt;
 &lt;li&gt;(Mar. 2020) Talk: &lt;em&gt;Convergence of a Fleming–Viot type particle system on the cycle graph&lt;/em&gt;. 14th International Conference on Operations Research, Havana, Cuba&lt;/li&gt;
-&lt;li&gt;(Feb. 2020)  Research school &lt;a href=&#34;https://conferences.cirm-math.fr/2301.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EDP et probabilité pour la biologie&lt;/a&gt;. CIRM, Marseille, France&lt;/li&gt;
-&lt;li&gt;(Dec. 2019) Poster: &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/posterrodriguez.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Quantitative results on a multi-allelic Moran type model with mutation&lt;/em&gt;&lt;/a&gt;. &lt;a href=&#34;https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/koskela/mathematical_genetics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Models and Inference in Population Genetics&lt;/a&gt;, Warwick University, UK&lt;/li&gt;
-&lt;li&gt;(Sep. 2019) Talk: &lt;em&gt;Quantitative results for a Moran type particle process in the cycle graph&lt;/em&gt;. &lt;a href=&#34;https://gdr-mamovi-2019.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR MAMOVI 2019&lt;/a&gt;, Université de Tours, France&lt;/li&gt;
-&lt;li&gt;(Jul. 2017) Talk: &lt;em&gt;Stochastic Comparisons of Two-Units Markovian Reparable Systems&lt;/em&gt;. &lt;a href=&#34;http://mmr2017.imag.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10th International Conference on Mathematical Methods in Reliability&lt;/a&gt;, Grenoble, France&lt;/li&gt;
+&lt;li&gt;(Feb. 2020)  Research school 
+. CIRM, Marseille, France&lt;/li&gt;
+&lt;li&gt;(Dec. 2019) Poster: 
+. 
+, Warwick University, UK&lt;/li&gt;
+&lt;li&gt;(Sep. 2019) Talk: &lt;em&gt;Quantitative results for a Moran type particle process in the cycle graph&lt;/em&gt;. 
+, Université de Tours, France&lt;/li&gt;
+&lt;li&gt;(Jul. 2017) Talk: &lt;em&gt;Stochastic Comparisons of Two-Units Markovian Reparable Systems&lt;/em&gt;. 
+, Grenoble, France&lt;/li&gt;
 &lt;/ol&gt;
 &lt;!-- * * *
 
@@ -550,7 +662,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-one-of-my-preferred-views-in-strasbourg&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/cafe_teorema.jpg&#34; alt=&#34;Photo from a bridge in Strasbourg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       One of my preferred views in Strasbourg
@@ -588,7 +700,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 &lt;hr&gt;
 &lt;h3 id=&#34;the-limit-process&#34;&gt;The limit process&lt;/h3&gt;
-&lt;p&gt;$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
+$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,&lt;/p&gt;
@@ -615,12 +727,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp 400w,
-               /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_31850dff624658c1aad63c3d4d3d4b1d.webp 760w,
-               /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp&#34;
+               /slides/2023-06-lisbon/fig_BM_parab_drift_hu2383775353327342352.webp 400w,
+               /slides/2023-06-lisbon/fig_BM_parab_drift_hu7070944278254408719.webp 760w,
+               /slides/2023-06-lisbon/fig_BM_parab_drift_hu11585688193564950379.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_BM_parab_drift_hu2383775353327342352.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -646,12 +758,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp 400w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_630042b5c09f4939a81f9f1dc8857848.webp 760w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp&#34;
+               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu15318328289199875134.webp 400w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu6959964198014934150.webp 760w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu2590888016195440098.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu15318328289199875134.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -695,12 +807,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp 400w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_86e03dd1759036e33fd5a5d44694068b.webp 760w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp&#34;
+               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu11530763417714251796.webp 400w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu4828220351226493135.webp 760w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu2592987222663553576.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu11530763417714251796.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -737,12 +849,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_65c1693ba854a773d89500cd9fa4e2ea.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_2d69977d79f5a73ae476d9c468dba0c5.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_65c1693ba854a773d89500cd9fa4e2ea.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu8292140921478333038.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu9667599563452685163.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu1643127300711300902.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu8292140921478333038.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -767,12 +879,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_e7adaa415551e6cd53c92620af8671e6.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_270fc86777365c45050709e96b436a88.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_e7adaa415551e6cd53c92620af8671e6.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu5411898836159347175.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu1450225584251939166.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu7697347757009893915.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu5411898836159347175.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -797,12 +909,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_98f4160345fbd522994c18f9a303e977.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_073e4b7a01e732b4b60d13af52e5eb32.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_98f4160345fbd522994c18f9a303e977.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu1642641410509499935.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu16499767929301419125.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu4212830235130189472.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu1642641410509499935.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -827,12 +939,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_3292de918965f847c2b7425119c815d9.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_6d6f0c57d9a27ca1851cc2184709239a.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_3292de918965f847c2b7425119c815d9.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu13498400978920282426.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu13396592870670050178.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu15409057222313281625.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu13498400978920282426.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -857,12 +969,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_94494384753a724f7f52ead7c2fae758.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_edf7d7faa84529bdfc28884f2c95f073.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_94494384753a724f7f52ead7c2fae758.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu2037205899259619839.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu2110471579992286585.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu15341494657229779089.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu2037205899259619839.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -887,12 +999,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_341cac576421b1af1beb443804291b24.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_534def58acc149dd327159947848e9c9.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_341cac576421b1af1beb443804291b24.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu4865803478178593633.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu2301469005879336696.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu3244986113447299561.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu4865803478178593633.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -917,12 +1029,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_3844e8d2420af4cd1c6b61dcc27ca911.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_db568a7f4db8ccc29918017b367ba3c9.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_3844e8d2420af4cd1c6b61dcc27ca911.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu15429127342199827573.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu3857811109143303152.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu6225270639944353729.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu15429127342199827573.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -947,12 +1059,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_8505579d509268177a9b6f0dfc334017.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_a846ad937b4a8784e031fc6fc3dd1f22.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_8505579d509268177a9b6f0dfc334017.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu2772272011487166243.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu9535093360400389096.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu332703023158100862.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu2772272011487166243.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -977,12 +1089,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_cd78a1bd7b6fef0f8d357681c8bb596d.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_2a1c0f78f754ef7d3e44df1aa99b8e0a.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_cd78a1bd7b6fef0f8d357681c8bb596d.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu1142389022128393918.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu14320006549328596700.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu9162549239799038198.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu1142389022128393918.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1007,12 +1119,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_149b4cf15acfdd025e0a032fff78a0ad.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_082930c66f797e34faaf42da39acdd09.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_149b4cf15acfdd025e0a032fff78a0ad.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu691220476428809891.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu10290383630677971426.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu250926815504237305.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu691220476428809891.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1037,12 +1149,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_67671bbd59b0a18581ff0b05dbed87c7.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_a0e12855d14bf05ce04f926e8bf0ed2f.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_67671bbd59b0a18581ff0b05dbed87c7.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu7824273599568284740.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu1611408290550705551.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu15513156734528897476.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu7824273599568284740.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1067,12 +1179,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_6139919a85883ab10412a9c77717b8e6.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_7f5f6a9a6bf1440dd47f0604f2c2fb80.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_6139919a85883ab10412a9c77717b8e6.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu12248714517988243928.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu7062153697110869709.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu11096315129928646693.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu12248714517988243928.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1097,12 +1209,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_23991f17dc2e6de7e3cd0477381def45.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_cd668b15162c2456c2b264d3dd74de36.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_23991f17dc2e6de7e3cd0477381def45.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu10508935315232283.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu17776597074781711831.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu1074769448221392456.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu10508935315232283.webp&#34;
                width=&#34;760&#34;
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1121,21 +1233,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/10_structured_sfs/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1147,21 +1273,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/09_playful_note/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1173,21 +1313,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/08_samc_revisited/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1199,21 +1353,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/05_spectrum/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1225,21 +1393,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/07_joco/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1251,21 +1433,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/06_prop_of_chaos/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1277,21 +1473,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/04_2019_spa/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1303,21 +1513,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/03_2019_peis/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1329,21 +1553,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/0a_matchin_points/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1357,7 +1595,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-&lt;p&gt;$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
+$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,&lt;/p&gt;
@@ -1384,12 +1622,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp 400w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_31850dff624658c1aad63c3d4d3d4b1d.webp 760w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp&#34;
+               /slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp 400w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hu7070944278254408719.webp 760w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hu11585688193564950379.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1415,12 +1653,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_630042b5c09f4939a81f9f1dc8857848.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp&#34;
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu6959964198014934150.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu2590888016195440098.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1464,12 +1702,12 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_86e03dd1759036e33fd5a5d44694068b.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp&#34;
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu4828220351226493135.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu2592987222663553576.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1499,21 +1737,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/01_2018_cstm/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
@@ -1525,21 +1777,35 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/publication/02_2018_heredity/</guid>
       <description>&lt;!-- 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
 &lt;/div&gt;
 
 
 
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt; --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>

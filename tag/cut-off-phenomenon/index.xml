@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cut-Off Phenomenon | Josué Corujo</title>
-    <link>https://josuecorujo.github.io/tag/cut-off-phenomenon/</link>
-      <atom:link href="https://josuecorujo.github.io/tag/cut-off-phenomenon/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/cut-off-phenomenon/</link>
+      <atom:link href="http://localhost:1313/tag/cut-off-phenomenon/index.xml" rel="self" type="application/rss+xml" />
     <description>Cut-Off Phenomenon</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu3f73d47cbcd7b7d666f6e5cb451f4bb6_42205_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu2137828008231222761.png</url>
       <title>Cut-Off Phenomenon</title>
-      <link>https://josuecorujo.github.io/tag/cut-off-phenomenon/</link>
+      <link>http://localhost:1313/tag/cut-off-phenomenon/</link>
     </image>
     
     <item>
       <title>On the spectrum and ergodicity of a neutral multi-allelic Moran model</title>
-      <link>https://josuecorujo.github.io/publication/05_spectrum/</link>
+      <link>http://localhost:1313/publication/05_spectrum/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/publication/05_spectrum/</guid>
+      <guid>http://localhost:1313/publication/05_spectrum/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

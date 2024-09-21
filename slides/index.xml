@@ -6,6 +6,12 @@
       <atom:link href="https://josuecorujo.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://josuecorujo.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Slides</title>
+      <link>https://josuecorujo.github.io/slides/</link>
+    </image>
+    
     <item>
       <title>Numerical simulations for chalk talk</title>
       <link>https://josuecorujo.github.io/slides/2023-06-lisbon/</link>
@@ -35,7 +41,7 @@
 
 &lt;hr&gt;
 &lt;h3 id=&#34;the-limit-process&#34;&gt;The limit process&lt;/h3&gt;
-&lt;p&gt;$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
+$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,&lt;/p&gt;
@@ -62,12 +68,12 @@
 
 
 &lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp 400w,
-               /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_31850dff624658c1aad63c3d4d3d4b1d.webp 760w,
-               /slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp&#34;
+               /slides/2023-06-lisbon/fig_BM_parab_drift_hu2383775353327342352.webp 400w,
+               /slides/2023-06-lisbon/fig_BM_parab_drift_hu7070944278254408719.webp 760w,
+               /slides/2023-06-lisbon/fig_BM_parab_drift_hu11585688193564950379.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_BM_parab_drift_hu2383775353327342352.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -93,12 +99,12 @@
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp 400w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_630042b5c09f4939a81f9f1dc8857848.webp 760w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp&#34;
+               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu15318328289199875134.webp 400w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu6959964198014934150.webp 760w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu2590888016195440098.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_without_marks_hu15318328289199875134.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -142,12 +148,12 @@
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp 400w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_86e03dd1759036e33fd5a5d44694068b.webp 760w,
-               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp&#34;
+               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu11530763417714251796.webp 400w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu4828220351226493135.webp 760w,
+               /slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu2592987222663553576.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/fig_couloured_excursions_with_marks_hu11530763417714251796.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -184,12 +190,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_65c1693ba854a773d89500cd9fa4e2ea.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_2d69977d79f5a73ae476d9c468dba0c5.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hub6f518f32f3034782b256491e29f22d3_18750_65c1693ba854a773d89500cd9fa4e2ea.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu8292140921478333038.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu9667599563452685163.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu1643127300711300902.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-1_hu8292140921478333038.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -214,12 +220,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_e7adaa415551e6cd53c92620af8671e6.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_270fc86777365c45050709e96b436a88.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hufe3d43dc4d0908a085b9145c009daf59_35711_e7adaa415551e6cd53c92620af8671e6.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu5411898836159347175.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu1450225584251939166.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu7697347757009893915.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-2_hu5411898836159347175.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -244,12 +250,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_98f4160345fbd522994c18f9a303e977.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_073e4b7a01e732b4b60d13af52e5eb32.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_huceae9f7530c9ded2cadca34f5f5c6480_37070_98f4160345fbd522994c18f9a303e977.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu1642641410509499935.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu16499767929301419125.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu4212830235130189472.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-3_hu1642641410509499935.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -274,12 +280,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_3292de918965f847c2b7425119c815d9.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_6d6f0c57d9a27ca1851cc2184709239a.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu532de21f8a46af716188ade3ddbb49f7_40375_3292de918965f847c2b7425119c815d9.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu13498400978920282426.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu13396592870670050178.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu15409057222313281625.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-4_hu13498400978920282426.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -304,12 +310,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_94494384753a724f7f52ead7c2fae758.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_edf7d7faa84529bdfc28884f2c95f073.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu532de21f8a46af716188ade3ddbb49f7_50893_94494384753a724f7f52ead7c2fae758.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu2037205899259619839.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu2110471579992286585.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu15341494657229779089.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-5_hu2037205899259619839.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -334,12 +340,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_341cac576421b1af1beb443804291b24.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_534def58acc149dd327159947848e9c9.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_huda9b5fbb1daea33ccfd953b2dac9ea2e_35423_341cac576421b1af1beb443804291b24.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu4865803478178593633.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu2301469005879336696.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu3244986113447299561.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-6_hu4865803478178593633.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -364,12 +370,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_3844e8d2420af4cd1c6b61dcc27ca911.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_db568a7f4db8ccc29918017b367ba3c9.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu65aa2a30e9f6ea843dd4afcbbf085187_36090_3844e8d2420af4cd1c6b61dcc27ca911.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu15429127342199827573.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu3857811109143303152.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu6225270639944353729.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-7_hu15429127342199827573.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -394,12 +400,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_8505579d509268177a9b6f0dfc334017.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_a846ad937b4a8784e031fc6fc3dd1f22.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hubec4c6fded7d62dd3c60823cb6afd01b_37557_8505579d509268177a9b6f0dfc334017.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu2772272011487166243.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu9535093360400389096.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu332703023158100862.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-8_hu2772272011487166243.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -424,12 +430,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_cd78a1bd7b6fef0f8d357681c8bb596d.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_2a1c0f78f754ef7d3e44df1aa99b8e0a.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu012e180982c5856c0444e414f4e61d8e_37354_cd78a1bd7b6fef0f8d357681c8bb596d.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu1142389022128393918.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu14320006549328596700.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu9162549239799038198.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-9_hu1142389022128393918.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -454,12 +460,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_149b4cf15acfdd025e0a032fff78a0ad.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_082930c66f797e34faaf42da39acdd09.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hudc9e17a175d0e8284042ebbcb1e9f10d_43907_149b4cf15acfdd025e0a032fff78a0ad.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu691220476428809891.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu10290383630677971426.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu250926815504237305.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-10_hu691220476428809891.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -484,12 +490,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_67671bbd59b0a18581ff0b05dbed87c7.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_a0e12855d14bf05ce04f926e8bf0ed2f.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu8cbecefdb396386e1c8beadce3e7e6eb_45497_67671bbd59b0a18581ff0b05dbed87c7.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu7824273599568284740.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu1611408290550705551.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu15513156734528897476.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-11_hu7824273599568284740.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -514,12 +520,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_6139919a85883ab10412a9c77717b8e6.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_7f5f6a9a6bf1440dd47f0604f2c2fb80.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu8a595cada74dabc691a363dcfd19bc98_68694_6139919a85883ab10412a9c77717b8e6.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu12248714517988243928.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu7062153697110869709.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu11096315129928646693.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-12_hu12248714517988243928.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -544,12 +550,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_23991f17dc2e6de7e3cd0477381def45.webp 400w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_cd668b15162c2456c2b264d3dd74de36.webp 760w,
-               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_huc8793bdfc72fdc74b8110fd447de3fba_55699_23991f17dc2e6de7e3cd0477381def45.webp&#34;
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu10508935315232283.webp 400w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu17776597074781711831.webp 760w,
+               /slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu1074769448221392456.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2023-06-lisbon/2022-09-27-BF-walk-construction-13_hu10508935315232283.webp&#34;
                width=&#34;760&#34;
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -570,7 +576,7 @@
 &lt;!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-&lt;p&gt;$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$ where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
+$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,&lt;/p&gt;
@@ -597,12 +603,12 @@
 
 
 &lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp 400w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_31850dff624658c1aad63c3d4d3d4b1d.webp 760w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hufb8da5e5eb37eaa287c251971b874d48_129260_2a77b585fcaabb9accb8e1cd4f6b6bb1.webp&#34;
+               /slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp 400w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hu7070944278254408719.webp 760w,
+               /slides/2022-10-nancy/fig_BM_parab_drift_hu11585688193564950379.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -628,12 +634,12 @@
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_630042b5c09f4939a81f9f1dc8857848.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu8db2c59ededec74be0008e2db1a430a3_211565_cf1f228e39e260a68f3bd1c2e254af06.webp&#34;
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu6959964198014934150.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu2590888016195440098.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -677,12 +683,12 @@
 
 
 &lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_86e03dd1759036e33fd5a5d44694068b.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_1200x1200_fit_q100_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hud64188691871b95e3a979980364afb13_224352_01fef5985bcbc801a3e63c6daeb9ce14.webp&#34;
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp 400w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu4828220351226493135.webp 760w,
+               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu2592987222663553576.webp 1200w&#34;
+               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
