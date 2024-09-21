@@ -1176,6 +1176,27 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = 
     </item>
     
     <item>
+      <title>Slides</title>
+      <link>https://josuecorujo.github.io/slides/test/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://josuecorujo.github.io/slides/test/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
+&lt;p&gt;
+ | 
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Stochastic comparisons of two-unit repairable systems</title>
       <link>https://josuecorujo.github.io/publication/01_2018_cstm/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
