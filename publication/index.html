@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7SY1SJD0P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-S7SY1SJD0P', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -834,8 +873,8 @@
       Alexane Jouniaux</span>, <span >
       Armando Arredondo</span>, <span >
       Camille Noûs</span>, <span >
-      Simona Grusea</span>, <span >
-      Josue_Corujo</span>, <span >
+      Simona Grusea</span>, <span class="font-bold">
+      Josué Corujo</span>, <span >
       Inês Laurenço</span>, <span >
       Simon Boitard</span>, <span >
       Olivier Mazet</span>
@@ -915,8 +954,8 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>
+  <span class="font-bold">
+      Josué Corujo</span>
   </span>
   (2024).
   <a href="/publication/11_nb_cc_random_graph/" class="underline">The number of connected components in sub-critical random graph processes</a>.
@@ -1009,8 +1048,8 @@
     
 
   <span >
-      Armando Arredondo</span>, <span >
-      Josue_Corujo</span>, <span >
+      Armando Arredondo</span>, <span class="font-bold">
+      Josué Corujo</span>, <span >
       Camille Noûs</span>, <span >
       Simon Boitard</span>, <span >
       Lounès Chikhi</span>, <span >
@@ -1106,9 +1145,9 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>, <span >
-      Vlada_Limic</span>
+  <span class="font-bold">
+      Josué Corujo</span>, <span >
+      Vlada Limic</span>
   </span>
   (2023).
   <a href="/publication/09_playful_note/" class="underline">A dynamical approach to spanning and surplus edges of random graphs</a>.
@@ -1200,9 +1239,9 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>, <span >
-      Vlada_Limic</span>
+  <span class="font-bold">
+      Josué Corujo</span>, <span >
+      Vlada Limic</span>
   </span>
   (2023).
   <a href="/publication/08_samc_revisited/" class="underline">The standard augmented multiplicative coalescent revisited</a>.
@@ -1299,8 +1338,8 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>
+  <span class="font-bold">
+      Josué Corujo</span>
   </span>
   (2023).
   <a href="/publication/05_spectrum/" class="underline">On the spectrum and ergodicity of a neutral multi-allelic Moran model</a>.
@@ -1397,8 +1436,8 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>, <span >
+  <span class="font-bold">
+      Josué Corujo</span>, <span >
       David Flores-Peñaloza</span>, <span >
       Clemens Huemer</span>, <span >
       Pablo Pérez-Lantero</span>, <span >
@@ -1485,8 +1524,8 @@
     
 
   <span >
-      Bertrand_Cloez</span>, <span >
-      Josue_Corujo</span>
+      Bertrand Cloez</span>, <span class="font-bold">
+      Josué Corujo</span>
   </span>
   (2022).
   <a href="/publication/06_prop_of_chaos/" class="underline">Uniform in time propagation of chaos for a Moran model</a>.
@@ -1583,8 +1622,8 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>
+  <span class="font-bold">
+      Josué Corujo</span>
   </span>
   (2021).
   <a href="/publication/04_2019_spa/" class="underline">Dynamics of a Fleming–Viot type particle system on the cycle graph</a>.
@@ -1681,8 +1720,8 @@
   <span class="article-metadata li-cite-author">
     
 
-  <span >
-      Josue_Corujo</span>, <span >
+  <span class="font-bold">
+      Josué Corujo</span>, <span >
       José E. Valdés</span>
   </span>
   (2021).

@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7SY1SJD0P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-S7SY1SJD0P', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -155,6 +194,8 @@
 
 
   
+  
+    <link rel="alternate" href="/slides/2023-06-lisbon/index.xml" type="application/rss+xml" title="Josué Corujo" />
   
 
   
@@ -193,19 +234,13 @@
     <meta property="twitter:image" content="https://josuecorujo.github.io/media/icon_hu2137828008231222761.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta
-        property="article:published_time"
-        content="2023-06-05T00:00:00&#43;00:00"
-      />
+      <meta property="og:updated_time" content="2023-06-05T00:00:00&#43;00:00" />
     
-    <meta property="article:modified_time" content="2023-06-05T00:00:00&#43;00:00">
   
 
   
 
 
-
-  
 
 
   <title>Numerical simulations for chalk talk | Josué Corujo</title>
@@ -799,401 +834,10 @@
     <div class="page-body  my-10">
       
 
-
-
-
-
-<div class="mx-auto flex max-w-screen-xl">
-  
-
-
-
-<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block">
-  
-  <div class="px-4 pt-4 lg:hidden">
-    
-    
-  </div>
-  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
-    <ul class="flex flex-col gap-1 lg:hidden">
-      
-      
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/"
-    
-  >Publications
-        <span data-hb-sidebar-toggle>
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
-        </span>
-    </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/12_iicrk/"
-    
-  >Extending the IICR to multiple genomes and identification of limitations of some demographic inferential methods
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/11_nb_cc_random_graph/"
-    
-  >The number of connected components in sub-critical random graph processes
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/10_structured_sfs/"
-    
-  >Exact calculation of the expected SFS in structured populations
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/09_playful_note/"
-    
-  >A dynamical approach to spanning and surplus edges of random graphs
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/08_samc_revisited/"
-    
-  >The standard augmented multiplicative coalescent revisited
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/05_spectrum/"
-    
-  >On the spectrum and ergodicity of a neutral multi-allelic Moran model
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/07_joco/"
-    
-  >Matching random colored points with rectangles
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/06_prop_of_chaos/"
-    
-  >Uniform in time propagation of chaos for a Moran model
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/04_2019_spa/"
-    
-  >Dynamics of a Fleming–Viot type particle system on the cycle graph
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/03_2019_peis/"
-    
-  >Further results on stochastic orderings and aging classes in systems with age replacement
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/0a_matchin_points/"
-    
-  >Matching Random Colored Points with Rectangles
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/01_2018_cstm/"
-    
-  >Stochastic comparisons of two-unit repairable systems
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/publication/02_2018_heredity/"
-    
-  >The IICR and the non-stationary structured coalescent: towards demographic inference with arbitrary changes in population structure
-    </a>
-              
-            </li></ul>
-      </div></li>
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/organized_events/"
-    
-  >Organized_events
-        <span data-hb-sidebar-toggle>
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
-        </span>
-    </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/organized_events/2023discretecreteil/"
-    
-  >Discrete randomness in Créteil
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/organized_events/2023-seminar-cuba-france/"
-    
-  >Séminaire franco-cubain de mathématiques appliquées
-    </a>
-              
-            </li></ul>
-      </div></li>
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/cv/"
-    
-  >Curriculum Vitae
-    </a></li>
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/events/"
-    
-  >Events
-    </a></li>
-        <li class=""><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/courses/"
-    
-  >Teaching
-        <span data-hb-sidebar-toggle>
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
-        </span>
-    </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/courses/2023spring/"
-    
-  >2022-2023 Martingales and Markov Chains
-    </a>
-              
-            </li></ul>
-      </div></li>
-        <li class="open"><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/slides/"
-    
-  >Slides
-        <span data-hb-sidebar-toggle>
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
-        </span>
-    </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col open"><a
-    class="hb-sidebar-custom-link
-      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
-    href="/slides/2023-06-lisbon/"
-    
-  >Numerical simulations for chalk talk
-    </a>
-  
-    <ul class="hb-sidebar-mobile-toc"><li>
-              <a
-                href="#"
-                class="hb-docs-link"
-              ></a>
-            </li>
-          <li>
-              <a
-                href="#heading"
-                class="hb-docs-link"
-              ></a>
-            </li>
-          <li>
-              <a
-                href="#heading-1"
-                class="hb-docs-link"
-              ></a>
-            </li>
-          <li>
-              <a
-                href="#heading-2"
-                class="hb-docs-link"
-              ></a>
-            </li>
-          </ul>
-  
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/slides/2022-10-nancy/"
-    
-  >Numerical simulations for the (augmented) multiplicative coalescent
-    </a>
-              
-            </li></ul>
-      </div></li>
-    </ul>
-
-    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
-
-</aside>
-  
-
-<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
-  
-
-
-
-
-
-
-
-
-
-
-
-  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#josu%c3%a9-corujo">Josué Corujo</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-12 rtl:pr-12 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#digression-theorem-proof-and-scientific-modelling-mathematics">Digression: theorem-proof and scientific modelling mathematics</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-16 rtl:pr-16 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#to-ask-what-is-known-in-this-subject-leads-inexorably-to-philosophical-issues-concerning-pure-and-applied-mathematics-i-call-this-scientific-modelling-sm-mathematics-as-opposed-to-theorem-proof-tp-mathematics-which-is-the-style-of-all-pure-and-much-of-what-is-called-applied-mathematics-in-sm-mathematics-models-may-be-incompletely-or-inconsistently-specified-the-focus-is-on-obtaining-conclusions-about-the-model-allowing-appeals-to-physical-realism-unquantified-approximations-and-arguments-by-analogy-in-tp-mathematics-one-is-supposed-to-have-explicit-assumptions-and-conclusions-as-well-as-a-rigorous-argument-linking-them">To ask ‘‘what is known’’ in this subject leads inexorably to philosophical issues concerning pure and applied mathematics… I call this scientific modelling (SM) mathematics, as opposed to theorem-proof (TP) mathematics, which is the style of all ‘‘pure’’ and much of what is called ‘‘applied’’ mathematics. In SM mathematics, models may be incompletely or inconsistently specified; the focus is on obtaining conclusions about the model, allowing appeals to physical realism, unquantified approximations, and arguments by analogy. In TP mathematics, one is supposed to have explicit assumptions and conclusions, as well as a rigorous argument linking them.</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-12 rtl:pr-12 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#--david-aldous-bernoulli-51-1999-3-48">- David Aldous (Bernoulli 5(1), 1999, 3-48)</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#erd%c3%b6s-r%c3%a9nyi-random-graph">Erdös-Rényi random graph</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#the-limit-process">The limit process</a>
-      </li></ul><ul></ul>
-
-  
-  
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  </nav>
-
-
-  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
-    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
-
-      
-
-      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Numerical simulations for chalk talk</h1>
-
-      <div class="mt-4 mb-16">
-      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Jun 5, 2023</span><span class="mx-1">·</span>
-        
-          
-          
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
-            
-            <div >Josué Corujo</div>
-          </div>
-          
-        
-
-        
-        <span class="mx-1">·</span>
-        <span class="mx-1">
-          2 min read
-        </span>
-        
-        </div>
-
-        <div class="mt-3">
-          
-
-
-
-
-<div class="">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-</div>
-
-
-        </div>
-      </div>
-
-
-
-      
-      
-      
-
-      
-      
-
-      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <h1 id="chalk-talk">Chalk talk</h1>
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">Numerical simulations for chalk talk</h1>
+    <h1 id="chalk-talk">Chalk talk</h1>
 <h3 id="josué-corujo">Josué Corujo</h3>
 <p>Instituto Gulbenkian de Ciência, 6th June 2023</p>
 <!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) -->
@@ -1741,194 +1385,28 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$<p> where $ W_t(s) = W(s) -
 <hr>
 <h1 id="thanks-for-your-attention">Thanks for your attention!</h1>
 
-      </div>
-
-      
-  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2023-06-05T00:00:00.000Z">
-    <span>Last updated on</span>
-    Jun 5, 2023</time>
-
-      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
-        
-        <div class="max-w-prose print:hidden">
-  
-  
-
-  
-
-
-  
-<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjosuecorujo.github.io%2Fslides%2F2023-06-lisbon%2F&amp;text=Numerical&#43;simulations&#43;for&#43;chalk&#43;talk"
-    title="X"
-    aria-label="X"
-    id="share-link-x"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjosuecorujo.github.io%2Fslides%2F2023-06-lisbon%2F&amp;t=Numerical&#43;simulations&#43;for&#43;chalk&#43;talk"
-    title="Facebook"
-    aria-label="Facebook"
-    id="share-link-facebook"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-    
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Numerical%20simulations%20for%20chalk%20talk&amp;body=https%3A%2F%2Fjosuecorujo.github.io%2Fslides%2F2023-06-lisbon%2F"
-    title="Email"
-    aria-label="Email"
-    id="share-link-email"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fjosuecorujo.github.io%2Fslides%2F2023-06-lisbon%2F&amp;title=Numerical&#43;simulations&#43;for&#43;chalk&#43;talk"
-    title="LinkedIn"
-    aria-label="LinkedIn"
-    id="share-link-linkedin"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
-  </a>
-  
-
-  
-  
-  
-  
-  
-  
-  <a
-    target="_blank" rel="noopener"
-    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Numerical&#43;simulations&#43;for&#43;chalk&#43;talk%20https%3A%2F%2Fjosuecorujo.github.io%2Fslides%2F2023-06-lisbon%2F"
-    title="WhatsApp"
-    aria-label="WhatsApp"
-    id="share-link-whatsapp"
-  >
-    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
-  </a>
-  
-</section>
-
-
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-
-
-
-
-  
-
-
-
-
-  
-  
-    
-    
-    
-      
-      
-    
-<div class="pt-1 no-prose w-full">
-  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
-  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
-    <div class="">
-      
-    </div>
-    <div class="">
-      
-        <a class="group flex text-right no-underline" href="/slides/2022-10-nancy/">
-          <span class="flex flex-col">
-            <span
-              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-            >Numerical simulations for the (augmented) multiplicative coalescent</span
-            >
-            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-              
-                Feb 5, 2019
-              
-            </span>
-          </span>
-          <span
-            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
-          ><span class="ltr:inline">&rarr;</span></span>
-        </a>
-      
-    </div>
-  </div>
-</div>
-
-
-
-  
-
-
-  
-
-
-
-</div>
-
-      </div>
-
-    </main>
   </article>
 </div>
+
+
+
+
+<div class="flex flex-col items-center">
+
+  <div class="container max-w-[65ch] mx-auto bg-white dark:bg-zinc-900 rounded-xl border-gray-100 dark:border-gray-700 border shadow-md overflow-hidden my-5">
+
+
+  
+  
+
+  </div>
+
+
+  
+
+
+</div>
+
 
     </div>
     <div class="page-footer">

@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7SY1SJD0P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-S7SY1SJD0P', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -928,8 +967,8 @@
 
     <div class="avatar-wrapper mt-10">
       
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/author/josue-corujo-rodriguez/avatar.jpg" alt="Josué Corujo Rodríguez"
-           width="200" height="200">
+      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="/author/josue-corujo-rodriguez/avatar_hu18267223444236373007.jpg" alt="Josué Corujo Rodríguez"
+           width="150" height="150">
       
     </div>
     
@@ -1078,7 +1117,7 @@
     <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert">
       <div class="bio-text" >
         <h2 id="about-me">About Me</h2>
-<p>I&rsquo;m a mathematician working on stochastic processes and their applications. I&rsquo;m mainly interested in the study of stochastic models for biological, engineering and physical applications.</p>
+<p>I&rsquo;m a mathematician working on stochastic processes and their applications. My current center of interest are related to the study of random graph process using probabilistic techniques, such as exploration processes.</p>
 <p>Since September 2023, I am Assistant Professor (Maître de Conférences) at the <a href="https://lama.u-pem.fr/" target="_blank" rel="noopener">Laboratoire d&rsquo;Analyse et Mathématiques Appliquées (LAMA)</a>, at the <a href="https://www.u-pec.fr" target="_blank" rel="noopener">Université Paris Est Créteil</a> (aka Paris 12).</p>
 <p>From December 2021 until August 2023, I was a postdoc at the <a href="https://irma.math.unistra.fr/" target="_blank" rel="noopener">IRMA</a>, at <a href="https://www.unistra.fr/" target="_blank" rel="noopener">Université de Strasbourg</a>, under the supervision of Vlada Limic. My postdoc position was funded by the <a href="https://irmiapp.unistra.fr/" target="_blank" rel="noopener">ITI IRMIA++</a>. My postdoc project was focused on the study of near critical random graphs models.</p>
 <p>I finished my PhD in Mathematics in December 2021 at <a href="https://www.ceremade.dauphine.fr/" target="_blank" rel="noopener">CEREMADE</a>, <a href="https://dauphine.psl.eu/en/" target="_blank" rel="noopener">Université Paris-Dauphine</a> and <a href="https://www.math.univ-toulouse.fr/fr/" target="_blank" rel="noopener">Institut de Mathématiques de Toulouse</a>, France. My PhD advisors were <a href="https://djalil.chafai.net/wiki/" target="_blank" rel="noopener">Djalil Chafaï</a> and <a href="https://www.math.univ-toulouse.fr/~grusea/" target="_blank" rel="noopener">Simona Grusea</a>. My PhD research was focused on the study of some properties of a class of interacting particle process modeling the evolution of a population in time with mutation and reproduction interactions.</p>

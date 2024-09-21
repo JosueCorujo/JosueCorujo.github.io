@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical simulations for chalk talk | Josué Corujo</title>
+    <link>https://josuecorujo.github.io/slides/2023-06-lisbon/</link>
+      <atom:link href="https://josuecorujo.github.io/slides/2023-06-lisbon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Numerical simulations for chalk talk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://josuecorujo.github.io/media/icon_hu2137828008231222761.png</url>
+      <title>Numerical simulations for chalk talk</title>
+      <link>https://josuecorujo.github.io/slides/2023-06-lisbon/</link>
+    </image>
+    
+  </channel>
+</rss>

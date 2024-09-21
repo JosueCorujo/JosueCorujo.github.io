@@ -130,6 +130,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7SY1SJD0P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-S7SY1SJD0P', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -1458,40 +1497,6 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$<p> where $ W_t(s) = W(s) -
 
   
   
-    
-    
-    
-      
-      
-    
-<div class="pt-1 no-prose w-full">
-  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
-  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
-    <div class="">
-      
-        <a class="group flex no-underline" href="/slides/2023-06-lisbon/">
-          <span
-            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
-          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
-          <span class="flex flex-col">
-            <span
-              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-            >Numerical simulations for chalk talk</span>
-            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-              
-                Jun 5, 2023
-              
-            </span>
-          </span>
-        </a>
-      
-    </div>
-    <div class="">
-      
-    </div>
-  </div>
-</div>
-
 
 
   
