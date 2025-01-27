@@ -31,67 +31,9 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp 400w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hu7070944278254408719.webp 760w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hu11585688193564950379.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      $W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig_BM_parab_drift.png&#34; alt=&#34;&#34; title=&#34;$W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu6959964198014934150.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu2590888016195440098.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig_couloured_excursions_without_marks.png&#34; alt=&#34;&#34; title=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;
 
@@ -108,36 +50,7 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = 
 &lt;/ul&gt;
 &lt;p&gt;$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu4828220351226493135.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu2592987222663553576.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig_couloured_excursions_with_marks.png&#34; alt=&#34;&#34; title=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;&lt;/h2&gt;
 

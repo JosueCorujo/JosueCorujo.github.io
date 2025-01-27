@@ -137,29 +137,7 @@
       <link>https://josuecorujo.github.io/organized_events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/organized_events/2023discretecreteil/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-poster-fait-par-irene-ayuso-ventura&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Poster fait par Irene Ayuso Ventura
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-12-12-Journee-Creteil/posterJourneeCreteil.jpg&#34; alt=&#34;Poster&#34; title=&#34;Poster fait par Irene Ayuso Ventura&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Organisée par 
  et moi, et financée par le 
  et 
@@ -222,80 +200,29 @@
 .&lt;/span&gt;
 &lt;/div&gt; --&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;programme&#34;&gt;Programme&lt;/h2&gt;
+&lt;!-- ## Programme --&gt;
+&lt;!-- 
 &lt;div class=&#34;table&#34;&gt;
+
 &lt;center&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;09h30-10h15&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;10h15-10h45&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;Pause&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;10h45-11h30&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;11h30-12h15&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;12h30-14h00&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;Repas&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;14h00-14h45&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;14h45-15h30&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;15h30-16h00&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;Pause&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;16h00-16h45&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;
-&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+
+|               |                   |         |
+| :-----------: | :-------:                  |  :----: | 
+| 09h30-10h15 | [Lucile Laulin](https://llaulin.pages.math.cnrs.fr)        | [*À propos de la limite super-diffusive de la marche aléatoire de l&#39;éléphant*](#lucile) | 
+| 10h15-10h45 | Pause                      |         |
+| 10h45-11h30 | [Nicolás Zalduendo](https://nzalduendo.github.io)    |   [*The multi-type bisexual Galton-Watson branching process*](#nicolas) |
+| 11h30-12h15 | [Anne Laure Basdevant](http://www.normalesup.org/~basdevant) | [*Coloriage poissonien du plan*](#anne) |
+| 12h30-14h00 | Repas                      |         |
+| 14h00-14h45 | [Niccolo Torri](https://ntorri.perso.math.cnrs.fr)        | [*Limite hydrodynamique du modèle de Schelling*](#niccolo) | 
+| 14h45-15h30 | [Eleanor Archer](https://sites.google.com/view/eleanorarcher/home)      | [*La percolation critique sur les arbres de Galton-Watson*](#eleanor) |
+| 15h30-16h00 | Pause                      |              |
+| 16h00-16h45 | [Nahuel Soprano Loto](https://sites.google.com/view/soprano-loto/nahuel-soprano-loto)  |  [*Stochastic matching and online matching algorithms*](#nahuel)  |
+
+
 &lt;/center&gt;
-&lt;/div&gt;
-&lt;hr&gt;
+
+&lt;/div&gt; --&gt;
+ &lt;!-- * * *  --&gt;
 &lt;h2 id=&#34;resumes&#34;&gt;Résumés&lt;/h2&gt;
 &lt;h3 id=&#34;lucile&#34;&gt;Lucile Laulin&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;À propos de la limite super-diffusive de la marche aléatoire de l&amp;rsquo;éléphant&lt;/em&gt;&lt;/p&gt;
@@ -350,27 +277,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <link>https://josuecorujo.github.io/organized_events/2023-seminar-cuba-france/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/organized_events/2023-seminar-cuba-france/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-06-14-4me_seminaire.jpg&#34; alt=&#34;4th seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-06-14-4me_seminaire.jpg&#34; alt=&#34;4th seminar&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vendredi 14 juin 2024 à 15h salle D101-102 Sorbonne Université 1516-3-09 LJLL, couloir 15-16, salle 309 (voici le 
 )
@@ -379,27 +286,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34; alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34; alt=&#34;3rd seminar&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vendredi 3 mai 2024 à 15h salle D101-102 (bâtiment Maurice Allais - 1er étage), à l&amp;rsquo;Université Paris Nanterre
 &lt;ul&gt;
@@ -408,27 +295,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34; alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34; alt=&#34;2nd seminar&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vendredi 8 Décembre 2023 à 14h30,  bât Borel de IHP en salle Olga Ladyjenskaïa (ex salle 01)
 &lt;ul&gt;
@@ -438,27 +305,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-10-13-1er_seminaire.jpg&#34; alt=&#34;1st seminar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-10-13-1er_seminaire.jpg&#34; alt=&#34;1st seminar&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vendredi 13 Octobre 2023 à 15h30, U. Paris Dauphine-PSL en salle D306
 &lt;ul&gt;
@@ -477,29 +324,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
       <guid>https://josuecorujo.github.io/cv/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-chachachá-my-cat&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/chachacha.jpg&#34; alt=&#34;A photo of my cat&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      &lt;em&gt;Chachachá&lt;/em&gt;, my cat
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/chachacha.jpg&#34; alt=&#34;A photo of my cat&#34; title=&#34;*Chachachá*, my cat&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-education&#34;&gt;1. Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;(2018-2021) PhD Mathematics, &lt;em&gt;Université Paris-Dauphine&lt;/em&gt;, France&lt;/li&gt;
@@ -509,6 +334,8 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;hr&gt;
 &lt;h2 id=&#34;2-preprints&#34;&gt;2. Preprints&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;(2024) &lt;strong&gt;J. Corujo&lt;/strong&gt;, S. Lemaire, V. Limic &lt;em&gt;A novel approach to the giant component fluctuations&lt;/em&gt; 
+&lt;/li&gt;
 &lt;li&gt;(2024) L. Chikhi, W. Rodríguez, C. Paris, M. Ha-Shan, A. Jouniaux, A. Arredondo, C. Noûs, S. Grusea, &lt;strong&gt;J. Corujo&lt;/strong&gt;, I. Lourenço, S. Boitard, O. Mazet &lt;em&gt;Extending the IICR to multiple genomes and identification of limitations of some demographic inferential methods&lt;/em&gt; 
 &lt;/li&gt;
 &lt;li&gt;(2024) &lt;strong&gt;J. Corujo&lt;/strong&gt;, &lt;em&gt;The number of connected components in sub-critical random graph processes&lt;/em&gt; 
@@ -569,6 +396,9 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;hr&gt;
 &lt;h2 id=&#34;6-conferences-and-talks&#34;&gt;6. Conferences and Talks&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;(Jan. 2025) Talk: &lt;em&gt;Combien de composantes connexes il y a dans un graphe aléatoire d&amp;rsquo;Erdös-Rényi sous-critique ?&lt;/em&gt;, 
+, 
+&lt;/li&gt;
 &lt;li&gt;(Nov. 2024) 
 .&lt;/li&gt;
 &lt;li&gt;(Oct. 2024) 
@@ -693,29 +523,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 - Spanish (native)
 - English (fluent)
 - French (fluent) --&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-one-of-my-favorite-views-in-strasbourg&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://josuecorujo.github.io/cafe_teorema.jpg&#34; alt=&#34;Photo from a bridge in Strasbourg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      One of my favorite views in Strasbourg
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://josuecorujo.github.io/cafe_teorema.jpg&#34; alt=&#34;Photo from a bridge in Strasbourg&#34; title=&#34;One of my favorite views in Strasbourg&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1098,67 +906,9 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-w_ts--ws---fracs22--t-s-for-t--05&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$W_t(s) = W(s) - \frac{s^2}{2} &amp;#43; t s$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp 400w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hu7070944278254408719.webp 760w,
-               /slides/2022-10-nancy/fig_BM_parab_drift_hu11585688193564950379.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_BM_parab_drift_hu2383775353327342352.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      $W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig_BM_parab_drift.png&#34; alt=&#34;&#34; title=&#34;$W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu6959964198014934150.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu2590888016195440098.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_without_marks_hu15318328289199875134.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig_couloured_excursions_without_marks.png&#34; alt=&#34;&#34; title=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;
 
@@ -1175,36 +925,7 @@ $$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = 
 &lt;/ul&gt;
 &lt;p&gt;$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-b_ts--w_ts---inflimits_0-le-u-le-s-w_tu-for-t--05&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34; srcset=&#34;
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp 400w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu4828220351226493135.webp 760w,
-               /slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu2592987222663553576.webp 1200w&#34;
-               src=&#34;https://josuecorujo.github.io/slides/2022-10-nancy/fig_couloured_excursions_with_marks_hu11530763417714251796.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      $B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig_couloured_excursions_with_marks.png&#34; alt=&#34;&#34; title=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;&lt;/h2&gt;
 
