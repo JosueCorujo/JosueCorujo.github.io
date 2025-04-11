@@ -7,7 +7,7 @@
     <description>Organized_events</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josuecorujo.github.io/media/icon_hu2137828008231222761.png</url>
+      <url>https://josuecorujo.github.io/media/icon_hu_3861d48b9a58d53c.png</url>
       <title>Organized_events</title>
       <link>https://josuecorujo.github.io/organized_events/</link>
     </image>
@@ -109,32 +109,27 @@
 &lt;blockquote&gt;
 &lt;p&gt;La marche aléatoire de l’éléphant a été introduite en 2004 par des physiciens. C’est une marche aléatoire qui un a une mémoire de tout son passé mais aussi un exemple simple de processus de Markov inhomogène en temps. Son comportement dépend d’un paramètre de mémoire et est catégorisé en trois régimes : diffusif, critique et super-diffusif.
 Dans cet exposé, on commencera par présenter le modèle puis le lien entre la marche, les urnes de Pòlya à remplacement aléatoire et les arbres aléatoires récursifs avec percolation de Bernoulli. On expliquera comme l’approche par les urnes permet d’obtenir une équation de point fixe sur la variable aléatoire limite qui apparait dans le régime super-diffusif et d’en déduire des informations sur cette variable.&lt;/p&gt;
-&lt;p&gt;Travail en collaboration avec Hélène Guérin et Kilian Raschel.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Travail en collaboration avec Hélène Guérin et Kilian Raschel.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;nicolas&#34;&gt;Nicolás Zalduendo&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;The multi-type bisexual Galton-Watson branching process&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The bisexual Galton-Watson process is an extension of the classical Galton-Watson process, but taking into account the mating of females and males, which form couples that can accomplish reproduction. Properties such as extinction conditions and asymptotic behaviour have been studied in the past years, but multi-type versions have only been treated in some particular cases. In this work we deal with a general multi-dimensional version of Daley&amp;rsquo;s model, where we consider different types of females and males, which mate according to a &amp;ldquo;mating function&amp;rdquo;. We consider that this function is superadditive, which in simple words implies that two groups of females and males will form a larger number of couples together rather than separate. One of the main difficulties in the study of this process is the absence of a linear operator that is the key to understand its behavior in the asexual case, but in our case it turns out to be only concave. To overcome this issue, we use a concave Perron-Frobenius theory which ensures the existence of eigen-elements for some concave operators. Using this tool, we find a necessary and sufficient condition for almost sure extinction as well as a law of large numbers. Finally, we study the convergence of the process in the long-time through the identification of a supermartingale.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The bisexual Galton-Watson process is an extension of the classical Galton-Watson process, but taking into account the mating of females and males, which form couples that can accomplish reproduction. Properties such as extinction conditions and asymptotic behaviour have been studied in the past years, but multi-type versions have only been treated in some particular cases. In this work we deal with a general multi-dimensional version of Daley&amp;rsquo;s model, where we consider different types of females and males, which mate according to a &amp;ldquo;mating function&amp;rdquo;. We consider that this function is superadditive, which in simple words implies that two groups of females and males will form a larger number of couples together rather than separate. One of the main difficulties in the study of this process is the absence of a linear operator that is the key to understand its behavior in the asexual case, but in our case it turns out to be only concave. To overcome this issue, we use a concave Perron-Frobenius theory which ensures the existence of eigen-elements for some concave operators. Using this tool, we find a necessary and sufficient condition for almost sure extinction as well as a law of large numbers. Finally, we study the convergence of the process in the long-time through the identification of a supermartingale.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;anne&#34;&gt;Anne Laure Basdevant&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;Coloriage poissonien du plan&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dans cet exposé, nous considérerons un modèle où des points tombent successivement au hasard sur une région du plan et prennent alors la couleur du point déjà présent le plus proche de lui. Nous donnerons quelques propriétés topologiques du coloriage limite et nous regarderons en particulier la dimension de Hausdorff de la frontière des clusters de chaque couleur.&lt;/p&gt;
-&lt;p&gt;Travail avec G. Blanc, N. Curien et A. Singh.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Travail avec G. Blanc, N. Curien et A. Singh.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;niccolo&#34;&gt;Niccolo Torri&lt;/h3&gt;  
 &lt;p&gt;&lt;em&gt;Limite hydrodynamique du modèle de Schelling&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Le sujet principal de cet exposé est le modèle de Schelling, un modèle d&amp;rsquo;agents qui décrit une dynamique de ségrégation quand nous avons la cohabitation de deux groupes sociaux. Le comportement de ce modèle a été étudié en utilisant plusieurs approches, notamment en utilisant des outils de la physique théorique et de la simulation numérique. Ces approches amènent à conjecturer un diagramme de phase où soit les différents groupes sociaux sont ségrégués dans des clusters macroscopiques, soit ils sont mélangés. D&amp;rsquo;un point de vue mathématique, à notre connaissance, ce modèle a été étudié pour la première fois par Holden et Sheffield (2020). Dans cet exposé nous allons présenter les résultats que nous avons obtenu concernant l&amp;rsquo;existence d&amp;rsquo;une limite hydrodynamique en considérant le modèle de Schelling perturbé par une dynamique de Glauber et une de Kawasaki.&lt;/p&gt;
-&lt;p&gt;Travail en collaboration avec Florent Barret, Université Paris-Nanterre.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Travail en collaboration avec Florent Barret, Université Paris-Nanterre.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;eleanor&#34;&gt;Eleanor Archer&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;La percolation critique sur les arbres de Galton-Watson&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dans cet exposé, nous prendrons un arbre de Galton-Watson sur-critique d&amp;rsquo;espérance $m &gt; 1$, et nous echantillons une percolation sur l&amp;rsquo;arbre. Il est bien connu que la probabilité critique pour ce modèle est $1/m$ et que l&amp;rsquo;amas de la racine à la loi d&amp;rsquo;un arbre de Galton-Watson critique. Pour cette raison de nombreuses propriétés de l&amp;rsquo;amas sont bien comprises, par exemple la probabilité à survivre jusqu&amp;rsquo;à la $k$-ieme génération, la loi de la taille de la $k$-ieme génération conditionnée à être strictement positive (la &amp;ldquo;limite de Yaglom&amp;rdquo;), et la convergence vers un processus du branchement.
 Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire que nous prenons l&amp;rsquo;espérance par rapport à la loi de l&amp;rsquo;arbre et de la percolation simultanément. L&amp;rsquo;objectif de cet exposé est de considérer le régime &lt;em&gt;quenched&lt;/em&gt; : ses propriétés sont-elles vraies pour presque toute réalisation de l&amp;rsquo;arbre ? Nous allons voir que c&amp;rsquo;est bien le cas.&lt;/p&gt;
-&lt;p&gt;Basé sur un travail en cours avec Quirin Vogel.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Basé sur un travail en cours avec Quirin Vogel.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;nahuel&#34;&gt;Nahuel Soprano Loto&lt;/h3&gt; 
 &lt;p&gt;&lt;em&gt;Stochastic matching and online matching algorithms&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -144,8 +139,7 @@ Tous ces résultats sont &lt;em&gt;annealed&lt;/em&gt;, c&amp;rsquo;est-à-dire 
 &lt;p&gt;We will explain how these two contexts are related, and show how the understanding of one context can help to the understanding of the second one.&lt;/p&gt;
 &lt;p&gt;This work is based on the following papers:&lt;/p&gt;
 &lt;p&gt;[1] M. Jonckheere, P. Moyal, C. Ramírez, and N. Soprano-Loto. 
-. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;
-&lt;/blockquote&gt;
+. Stochastic Systems 2023 13:1, 40-58.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;[2] N. Soprano-Loto, M. Jonckheere, P. Moyal. 
 . arXiv:2303.15374, 2023.&lt;/p&gt;
 &lt;hr&gt;

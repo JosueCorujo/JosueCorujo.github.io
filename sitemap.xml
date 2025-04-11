@@ -3,7 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://josuecorujo.github.io/publication_types/3/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/tags/geometric-matchings/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/tags/markov-chains/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/publication/14_matching_point_corrigendum/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/publication_types/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/publication/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/tags/random-colored-points/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://josuecorujo.github.io/tags/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/publication/13_fluctutions_giantcc/</loc>
@@ -18,23 +46,11 @@
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://josuecorujo.github.io/publication_types/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://josuecorujo.github.io/tags/simultaneous-breadth-first-walk/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/super-critical-regim/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/</loc>
+    <loc>https://josuecorujo.github.io/tags/super-critical-regime/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,6 +150,10 @@
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://josuecorujo.github.io/publication_types/2/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://josuecorujo.github.io/publication/10_structured_sfs/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,10 +186,6 @@
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://josuecorujo.github.io/publication_types/2/</loc>
-    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://josuecorujo.github.io/tags/cut-off-phenomenon/</loc>
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,19 +202,7 @@
     <lastmod>2023-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/geometric-matchings/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/markov-chains/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://josuecorujo.github.io/publication/07_joco/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/random-colored-points/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
