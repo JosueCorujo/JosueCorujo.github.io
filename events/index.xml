@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Events | Josué Corujo</title>
+    <title>Events on Home</title>
     <link>https://josuecorujo.github.io/events/</link>
-      <atom:link href="https://josuecorujo.github.io/events/index.xml" rel="self" type="application/rss+xml" />
-    <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://josuecorujo.github.io/media/icon_hu_3861d48b9a58d53c.png</url>
-      <title>Events</title>
-      <link>https://josuecorujo.github.io/events/</link>
-    </image>
-    
+    <description>Recent content in Events on Home</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://josuecorujo.github.io/events/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

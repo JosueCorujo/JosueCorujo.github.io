@@ -1,86 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Slides | Josué Corujo</title>
+    <title>Slides on Home</title>
     <link>https://josuecorujo.github.io/slides/</link>
-      <atom:link href="https://josuecorujo.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
-    <description>Slides</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://josuecorujo.github.io/media/icon_hu_3861d48b9a58d53c.png</url>
-      <title>Slides</title>
-      <link>https://josuecorujo.github.io/slides/</link>
-    </image>
-    
+    <description>Recent content in Slides on Home</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://josuecorujo.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Numerical simulations for the (augmented) multiplicative coalescent</title>
       <link>https://josuecorujo.github.io/slides/2022-10-nancy/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/slides/2022-10-nancy/</guid>
-      <description>&lt;h2 id=&#34;simulations-for-the-augmented-multiplicative-coalescent&#34;&gt;Simulations for the (augmented) multiplicative coalescent&lt;/h2&gt;
-&lt;!-- [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/) --&gt;
-&lt;hr&gt;
-&lt;h2&gt;&lt;/h2&gt;
-$$ B_t(s) = W_t(s) - \inf_{0 \leq u \leq s} W_t(u),$$&lt;p&gt; where $ W_t(s) = W(s) - \frac{1}{2}s^2 + t s $.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;$X_i(t)$: $i$th largest excursion of $B_t(\cdot)$ above zero,&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;$\big( \pmb{X}(t), t \ge 0  \big) $ is a realization of an eternal multiplicative coalescent.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;fig_BM_parab_drift.png&#34; alt=&#34;&#34; title=&#34;$W_t(s) = W(s) - \frac{s^2}{2} + t s$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;fig_couloured_excursions_without_marks.png&#34; alt=&#34;&#34; title=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hdlAdjH4Gbk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;$\Lambda$: homogeneous Poisson point process on $\mathbb{R}_+^2$,&lt;/li&gt;
-&lt;li&gt;$X_i(t)$: $i$th largest excursion above zero,&lt;/li&gt;
-&lt;li&gt;$Y_i(t)$: nb. of marks below the curve during the $i$th largest excursion.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;$\big( (\pmb{X}(t), \pmb{Y}(t)), t \ge 0  \big) $ is a realization of an eternal augmented multiplicative coalescent.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&#34;fig_couloured_excursions_with_marks.png&#34; alt=&#34;&#34; title=&#34;$B_t(s) = W_t(s) - \inf\limits_{0 \le u \le s} W_t(u)$, for $t = 0.5$&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8qxR8-VzLXg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;hr&gt;
-&lt;h1 id=&#34;thanks-for-your-attention&#34;&gt;Thanks for your attention!&lt;/h1&gt;
-</description>
+      <description>Numerical simulations for the (augmented) multiplicative coalescent</description>
     </item>
-    
     <item>
       <title>Slides</title>
       <link>https://josuecorujo.github.io/slides/test/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://josuecorujo.github.io/slides/test/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
-&lt;p&gt;
- | 
-&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-</description>
+      <description>An introduction to using Hugo Blox Builder&amp;rsquo;s Slides feature.</description>
     </item>
-    
   </channel>
 </rss>

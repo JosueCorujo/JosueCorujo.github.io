@@ -2,284 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://josuecorujo.github.io/publication_types/3/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/posts/first-post/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/geometric-matchings/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/markov-chains/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/14_matching_point_corrigendum/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication_types/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/random-colored-points/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/13_fluctutions_giantcc/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/barely-super-critical-regime/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/erdos-renyi-random-graph-process/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/simultaneous-breadth-first-walk/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/super-critical-regime/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/coalescence-rate/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/demographi-history/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/12_iicrk/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/genomic-data/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/iicr/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/model-choice/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/model-exclusion/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/multiple-genomes/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/population-size-change/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/population-structure/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/sampling-scheme/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/multiplicative-coalescent/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/number-of-connected-components/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/random-graphs/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/11_nb_cc_random_graph/</loc>
-    <lastmod>2024-06-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/posts/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://josuecorujo.github.io/organized_events/2023discretecreteil/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/organized_events/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/organized_events/2023-seminar-cuba-france/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/cv/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/courses/2023spring/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/events/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/courses/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/slides/2023-06-lisbon/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/slides/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication_types/2/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/10_structured_sfs/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/site-frequency-spectrum/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/structured-population/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/09_playful_note/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/inhomogeneous-random-graphs/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/augmented-multiplicative-coalescent/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/critical-erdos-renyi-random-graphs/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/08_samc_revisited/</loc>
-    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/cut-off-phenomenon/</loc>
-    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/moran-type-particle-system/</loc>
-    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/05_spectrum/</loc>
-    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/qsd/</loc>
-    <lastmod>2023-03-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/07_joco/</loc>
-    <lastmod>2023-03-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/propagation-of-chaos/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/06_prop_of_chaos/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/04_2019_spa/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/fleming-viot-particle-system/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/age-replacement/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/03_2019_peis/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/stochastic-orders/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication_types/1/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/publication/0a_matchin_points/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/stochastic-algorithm/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://josuecorujo.github.io/tags/strong-matching/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/slides/2022-10-nancy/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://josuecorujo.github.io/slides/test/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/reliability-theory/</loc>
-    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/about/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/publication/01_2018_cstm/</loc>
-    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/categories/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/population-genetics/</loc>
-    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/research/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/structured-populations/</loc>
-    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/tags/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/publication/02_2018_heredity/</loc>
-    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://josuecorujo.github.io/teaching/</loc>
   </url>
 </urlset>
