@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home</title>
-    <link>https://josuecorujo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://josuecorujo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://josuecorujo.github.io/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;p&gt;Welcome to my website! This is my first post.&lt;/p&gt;
 &lt;p&gt;Here is an inline math example: $E = mc^2$
 &lt;/p&gt;
@@ -23,17 +23,17 @@ $$</description>
     </item>
     <item>
       <title>Discrete randomness in Créteil</title>
-      <link>https://josuecorujo.github.io/organized_events/2023discretecreteil/</link>
+      <link>http://localhost:1313/organized_events/2023discretecreteil/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/organized_events/2023discretecreteil/</guid>
+      <guid>http://localhost:1313/organized_events/2023discretecreteil/</guid>
       <description>12th December 2023</description>
     </item>
     <item>
       <title>Séminaire franco-cubain de mathématiques appliquées</title>
-      <link>https://josuecorujo.github.io/organized_events/2023-seminar-cuba-france/</link>
+      <link>http://localhost:1313/organized_events/2023-seminar-cuba-france/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/organized_events/2023-seminar-cuba-france/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;4th seminar&#34; loading=&#34;lazy&#34; src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-06-14-4me_seminaire.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/organized_events/2023-seminar-cuba-france/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;4th seminar&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/uploads/2023-Seminar_France-Cuba/2024-06-14-4me_seminaire.jpg&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vendredi 14 juin 2024 à 15h salle D101-102 Sorbonne Université 1516-3-09 LJLL, couloir 15-16, salle 309 (voici le &lt;a href=&#34;https://www.ljll.fr/plan-dacces&#34;&gt;plan d&amp;rsquo;accès&lt;/a&gt;)
 &lt;ul&gt;
@@ -41,7 +41,7 @@ $$</description>
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3rd seminar&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/uploads/2023-Seminar_France-Cuba/2024-05-03-3me_seminaire.jpg&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Vendredi 3 mai 2024 à 15h salle D101-102 (bâtiment Maurice Allais - 1er étage), à l&amp;rsquo;Université Paris Nanterre
 &lt;ul&gt;
@@ -50,20 +50,20 @@ $$</description>
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; src=&#34;https://josuecorujo.github.io/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;2nd seminar&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/uploads/2023-Seminar_France-Cuba/2023-12-08-2me_seminaire.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Numerical simulations for the (augmented) multiplicative coalescent</title>
-      <link>https://josuecorujo.github.io/slides/2022-10-nancy/</link>
+      <link>http://localhost:1313/slides/2022-10-nancy/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/slides/2022-10-nancy/</guid>
+      <guid>http://localhost:1313/slides/2022-10-nancy/</guid>
       <description>Numerical simulations for the (augmented) multiplicative coalescent</description>
     </item>
     <item>
       <title>Slides</title>
-      <link>https://josuecorujo.github.io/slides/test/</link>
+      <link>http://localhost:1313/slides/test/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://josuecorujo.github.io/slides/test/</guid>
+      <guid>http://localhost:1313/slides/test/</guid>
       <description>An introduction to using Hugo Blox Builder&amp;rsquo;s Slides feature.</description>
     </item>
   </channel>

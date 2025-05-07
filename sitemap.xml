@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://josuecorujo.github.io/posts/first-post/</loc>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/organized_events/2023discretecreteil/</loc>
+    <loc>http://localhost:1313/organized_events/2023discretecreteil/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/organized_events/</loc>
+    <loc>http://localhost:1313/organized_events/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/organized_events/2023-seminar-cuba-france/</loc>
+    <loc>http://localhost:1313/organized_events/2023-seminar-cuba-france/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/events/</loc>
+    <loc>http://localhost:1313/events/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/slides/2023-06-lisbon/</loc>
+    <loc>http://localhost:1313/slides/2023-06-lisbon/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/slides/</loc>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/slides/2022-10-nancy/</loc>
+    <loc>http://localhost:1313/slides/2022-10-nancy/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/slides/test/</loc>
+    <loc>http://localhost:1313/slides/test/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://josuecorujo.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://josuecorujo.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url>
 </urlset>
